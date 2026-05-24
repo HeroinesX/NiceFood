@@ -1,0 +1,352 @@
+.community-container {
+  width: 100%;
+  max-width: 700px;
+  min-width: 320px;
+  margin: 0 auto;
+  min-height: 100vh;
+  padding-bottom: 80px;
+}
+
+.community-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: var(--space-md);
+  background: var(--color-bg-card);
+  border-bottom: 1px solid var(--color-border);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.community-header h2 { margin: 0; font-size: 18px; }
+
+.new-post-btn {
+  padding: 8px 16px;
+  background: var(--color-primary);
+  color: white;
+  border: none;
+  border-radius: var(--radius-xl);
+  font-size: 13px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: all 0.2s;
+}
+
+.new-post-btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(255,107,53,0.25);
+}
+
+/* ── 发帖编辑器 ── */
+.post-editor-card {
+  background: var(--color-bg-card);
+  border-bottom: 1px solid var(--color-border);
+  padding: var(--space-md);
+  animation: slideDown 0.2s ease-out;
+}
+
+@keyframes slideDown {
+  from { opacity: 0; transform: translateY(-10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.post-editor-card textarea {
+  width: 100%;
+  padding: 12px;
+  border: 2px solid var(--color-border);
+  border-radius: var(--radius-md);
+  font-size: 14px;
+  font-family: var(--font-family);
+  resize: vertical;
+  outline: none;
+  box-sizing: border-box;
+  transition: border-color 0.2s;
+}
+
+.post-editor-card textarea:focus {
+  border-color: var(--color-primary);
+}
+
+.post-editor-actions {
+  display: flex;
+  gap: var(--space-sm);
+  align-items: center;
+  margin: var(--space-sm) 0;
+  flex-wrap: wrap;
+}
+
+.upload-btn {
+  padding: 6px 14px;
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-xl);
+  font-size: 12px;
+  color: var(--color-text-secondary);
+  cursor: pointer;
+  font-weight: 500;
+  transition: all 0.15s;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.upload-btn:hover {
+  border-color: var(--color-primary);
+  color: var(--color-primary);
+  background: var(--color-primary-bg);
+}
+
+.upload-status {
+  font-size: 12px;
+  color: var(--color-accent-green);
+  font-weight: 500;
+}
+
+/* 菜谱搜索框 */
+.recipe-search-box {
+  background: var(--color-bg);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: var(--space-sm);
+  margin-bottom: var(--space-sm);
+}
+
+.recipe-search-box input {
+  width: 100%;
+  padding: 8px 12px;
+  border: 2px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  font-size: 13px;
+  outline: none;
+  box-sizing: border-box;
+  font-family: var(--font-family);
+}
+
+.recipe-search-box input:focus {
+  border-color: var(--color-primary);
+}
+
+.selected-recipe-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--color-primary-bg);
+  color: var(--color-primary);
+  padding: 4px 10px;
+  border-radius: var(--radius-xl);
+  font-size: 12px;
+  font-weight: 600;
+  margin-top: 6px;
+}
+
+.selected-recipe-tag button {
+  background: none;
+  border: none;
+  color: var(--color-primary);
+  cursor: pointer;
+  font-size: 14px;
+  padding: 0 2px;
+}
+
+.recipe-search-results {
+  margin-top: 6px;
+}
+
+.recipe-search-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 8px;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.recipe-search-item:hover {
+  background: var(--color-primary-bg);
+}
+
+.recipe-search-item img {
+  width: 36px;
+  height: 36px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.recipe-search-item span {
+  font-size: 13px;
+  color: var(--color-text);
+}
+
+.no-result {
+  font-size: 12px;
+  color: var(--color-text-light);
+  text-align: center;
+  padding: 8px;
+  margin: 0;
+}
+
+.post-submit-btn {
+  width: 100%;
+  padding: 12px;
+  background: linear-gradient(135deg, var(--color-primary), var(--color-accent-gold));
+  color: white;
+  border: none;
+  border-radius: var(--radius-md);
+  font-size: 15px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.post-submit-btn:hover:not(:disabled) {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 16px rgba(255,107,53,0.3);
+}
+
+.post-submit-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+/* ── Tab ── */
+.community-tabs {
+  display: flex;
+  background: var(--color-bg-card);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.community-tabs button {
+  flex: 1;
+  padding: 12px 0;
+  background: none;
+  border: none;
+  font-size: 14px;
+  color: var(--color-text-secondary);
+  cursor: pointer;
+  position: relative;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+
+.community-tabs button.active {
+  color: var(--color-primary);
+  font-weight: 700;
+}
+
+.community-tabs button.active::after {
+  content: '';
+  position: absolute;
+  bottom: 0; left: 30%; right: 30%;
+  height: 2px;
+  background: var(--color-primary);
+  border-radius: 1px;
+}
+
+/* ── 帖子 ── */
+.posts-list { padding: var(--space-md); }
+
+.post-card {
+  background: var(--color-bg-card);
+  border-radius: var(--radius-md);
+  padding: var(--space-md);
+  margin-bottom: var(--space-md);
+  box-shadow: var(--shadow-sm);
+  border: 1px solid var(--color-border);
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+
+.post-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+
+.post-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: var(--space-sm);
+}
+
+.post-user { display: flex; align-items: center; gap: var(--space-sm); }
+
+.post-avatar {
+  width: 40px; height: 40px;
+  border-radius: 50%;
+  background: var(--color-primary-bg);
+  color: var(--color-primary);
+  display: flex; align-items: center; justify-content: center;
+  font-weight: 700; font-size: 16px;
+}
+
+.post-username { font-size: 14px; font-weight: 600; color: var(--color-text); }
+
+.user-level {
+  font-size: 11px; color: var(--color-primary);
+  background: var(--color-primary-bg);
+  padding: 1px 8px; border-radius: 10px;
+  margin-left: 6px;
+}
+
+.post-time { font-size: 11px; color: var(--color-text-light); }
+
+.star { color: #ddd; font-size: 16px; }
+.star.filled { color: var(--color-accent-gold); }
+
+.post-body { margin-bottom: var(--space-sm); }
+.post-text { margin: 0; font-size: 14px; line-height: 1.6; color: var(--color-text); white-space: pre-wrap; }
+.post-image {
+  width: 100%; max-height: 360px;
+  object-fit: cover; border-radius: var(--radius-sm);
+  margin-top: var(--space-sm);
+}
+
+.post-recipe-badge {
+  font-size: 12px; color: var(--color-primary);
+  background: var(--color-primary-bg);
+  padding: 4px 12px; border-radius: var(--radius-xl);
+  display: inline-block;
+}
+
+.load-more-btn {
+  width: 100%; padding: 12px;
+  background: var(--color-bg); border: 1px solid var(--color-border);
+  border-radius: var(--radius-md); font-size: 14px;
+  color: var(--color-text-secondary); cursor: pointer;
+  transition: all 0.2s;
+}
+
+.load-more-btn:hover { border-color: var(--color-primary); color: var(--color-primary); }
+.load-more-btn:disabled { opacity: 0.5; }
+
+.empty-state { text-align: center; padding: 60px 20px; }
+.empty-state p { font-size: 16px; color: var(--color-text-secondary); margin: 0 0 8px; }
+.empty-state .hint { font-size: 13px; color: var(--color-text-light); }
+.empty-state button {
+  margin-top: var(--space-lg); padding: 10px 28px;
+  background: var(--color-primary); color: white;
+  border: none; border-radius: var(--radius-xl); font-size: 14px;
+  cursor: pointer; font-weight: 600;
+}
+
+/* ── 底部导航 ── */
+.bottom-nav {
+  position: fixed; bottom: 0; left: 0; right: 0;
+  background: rgba(255,255,255,0.95); backdrop-filter: blur(10px);
+  display: flex; justify-content: space-around;
+  padding: var(--space-sm) 0 calc(var(--space-sm) + env(safe-area-inset-bottom,0));
+  box-shadow: 0 -2px 16px rgba(61,44,44,0.06);
+  border-top: 1px solid var(--color-border); z-index: 100;
+}
+
+.bottom-nav button {
+  background: none; border: none; font-size: 11px;
+  color: var(--color-text-secondary); cursor: pointer;
+  padding: var(--space-sm); font-weight: 500;
+  display: flex; flex-direction: column; align-items: center; gap: 3px;
+  transition: color 0.2s;
+}
+
+.bottom-nav button.active { color: var(--color-primary); font-weight: 700; }
+.bottom-nav button span { font-size: 10px; }
