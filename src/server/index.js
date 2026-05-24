@@ -24,8 +24,13 @@ const buildDir = path.join(__dirname, '..', '..', 'build');
 const fs = require('fs');
 if (fs.existsSync(path.join(buildDir, 'index.html'))) {
   app.use(express.static(buildDir));
-  app.get('*', (req, res) => {
-    res.sendFile(path.join(buildDir, 'index.html'));
+  // Express 5 的 catch-all 路由
+  app.use((req, res) => {
+    if (req.method === 'GET') {
+      res.sendFile(path.join(buildDir, 'index.html'));
+    } else {
+      res.status(404).json({ error: 'Not found' });
+    }
   });
   console.log(`  📦 前端已构建，托管静态文件`);
 }
