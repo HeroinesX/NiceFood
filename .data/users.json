@@ -1,0 +1,78 @@
+[
+  {
+    "username": "admin",
+    "password": "987a1e0b9289964eccafb7b9289c1884:0c23fb0204b426ba667215f8cba248e6dc09349796291eb0e307c2fbff248a42772ac58bf70dfae98fb064e16f023cb70974331926361e5cc92ad43099d2e961",
+    "avatar": "😊",
+    "bio": "系统管理员",
+    "location": "",
+    "level": "厨神",
+    "role": "admin",
+    "banned": false,
+    "preferences": [],
+    "favorites": [],
+    "shares": [],
+    "pendingEdits": [],
+    "createdAt": "2026-05-24T08:45:50.278Z",
+    "_id": "0216cc2fce9582a72f2c332c"
+  },
+  {
+    "username": "test",
+    "password": "8bc2128a1d22f64d1eb8c69499822cd8:7c446a30f4ac7ea49c0997e661ef18add1836fdf76cda2ae5dfb9ef884f9baf3665762a657bdab7fa13e854f35bef1e5b0f17c26b0137caa746c6fc5a76173cf",
+    "avatar": "/images/avatars/a69328e2b785ab0310b4cf7a_1779617075980.jpg",
+    "preferences": [],
+    "favorites": [
+      "96254bdb4cba685d2dc77c4a",
+      "0cd0ecf6abc2250a79f0d784",
+      "0a733bb3b2fbf61d4bf14366",
+      "45f6f305605e1b63d5ae99e5"
+    ],
+    "shares": [
+      {
+        "recipeId": "94d8a42a23013ce6920f7a36",
+        "recipeName": "番茄炒蛋",
+        "image": "",
+        "text": "小case",
+        "rating": 5,
+        "createdAt": "2026-05-24T08:55:27.212Z"
+      }
+    ],
+    "pendingEdits": [],
+    "bio": "小虎",
+    "location": "",
+    "level": "新手厨师",
+    "role": "user",
+    "banned": false,
+    "createdAt": "2026-05-24T08:51:12.127Z",
+    "_id": "a69328e2b785ab0310b4cf7a",
+    "displayName": "食神小虎"
+  },
+  {
+    "username": "lsn666",
+    "displayName": "李珊娜",
+    "password": "ad52b2c62321ffda35a4da69dda29802:4bba51b6007d09edf70ec2ca676c3538694edc2dc7e5a400e31e85eb849070ac46cbcf86d9179c061665d483d88a0c4d982b23b0dedc07cb5fd048f4e02cba52",
+    "avatar": "/images/avatars/c16db399bf7ce2fee5bce93f_1779617047975.jpg",
+    "preferences": [],
+    "favorites": [
+      "40e3b556aabce4e8f37997bd"
+    ],
+    "shares": [
+      {
+        "type": "share",
+        "image": "/images/uploads/c16db399bf7ce2fee5bce93f_1779616840558.jpg",
+        "text": "不赖",
+        "rating": 5,
+        "createdAt": "2026-05-24T10:00:43.623Z",
+        "recipeId": "f5f7e0964aec65db8970ecf9",
+        "recipeName": "大盘鸡"
+      }
+    ],
+    "pendingEdits": [],
+    "bio": "",
+    "location": "",
+    "level": "新手厨师",
+    "role": "user",
+    "banned": false,
+    "createdAt": "2026-05-24T09:59:01.414Z",
+    "_id": "c16db399bf7ce2fee5bce93f"
+  }
+]

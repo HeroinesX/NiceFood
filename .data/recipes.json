@@ -1,0 +1,3336 @@
+[
+  {
+    "name": "番茄炒蛋",
+    "image": "/api/images/recipes/recipe_01.jpeg",
+    "time": "15分钟",
+    "tags": [
+      "家常",
+      "快手",
+      "下饭",
+      "蔬菜",
+      "蛋奶"
+    ],
+    "servings": 2,
+    "rating": 4.8,
+    "ingredients": [
+      {
+        "name": "鸡蛋",
+        "amount": "3个"
+      },
+      {
+        "name": "番茄",
+        "amount": "2个"
+      },
+      {
+        "name": "葱",
+        "amount": "1根"
+      },
+      {
+        "name": "盐",
+        "amount": "1/2茶匙"
+      },
+      {
+        "name": "糖",
+        "amount": "1/2茶匙"
+      },
+      {
+        "name": "油",
+        "amount": "2勺"
+      }
+    ],
+    "steps": [
+      "鸡蛋打散加少许盐搅匀",
+      "番茄切块，葱切段",
+      "热锅热油，倒入蛋液炒至凝固盛出",
+      "锅中再加少许油，放入番茄翻炒出汁",
+      "加入糖、盐调味",
+      "倒回鸡蛋翻炒均匀",
+      "撒上葱花出锅"
+    ],
+    "nutrition": {
+      "calories": "180kcal",
+      "protein": "12g",
+      "carbs": "8g",
+      "fat": "10g"
+    },
+    "equipment": [
+      "炒锅"
+    ],
+    "difficulty": "简单",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🧂 肉类腌制时加少许油锁住水分，炒出来更嫩滑",
+      "substitute": "🔄 鸡蛋过敏可用豆腐代替蛋白质来源",
+      "storage": "📦 密封冷藏保存1-2天，微波炉加热前洒少许水防干"
+    },
+    "_id": "40e3b556aabce4e8f37997bd"
+  },
+  {
+    "name": "红烧肉",
+    "image": "/api/images/recipes/recipe_02.jpeg",
+    "time": "90分钟",
+    "tags": [
+      "浓郁",
+      "红烧",
+      "下饭",
+      "肉类"
+    ],
+    "servings": 3,
+    "rating": 4.9,
+    "ingredients": [
+      {
+        "name": "五花肉",
+        "amount": "500g"
+      },
+      {
+        "name": "冰糖",
+        "amount": "30g"
+      },
+      {
+        "name": "生抽",
+        "amount": "2勺"
+      },
+      {
+        "name": "老抽",
+        "amount": "1勺"
+      },
+      {
+        "name": "料酒",
+        "amount": "2勺"
+      },
+      {
+        "name": "姜",
+        "amount": "5片"
+      },
+      {
+        "name": "葱",
+        "amount": "2根"
+      },
+      {
+        "name": "八角",
+        "amount": "2个"
+      },
+      {
+        "name": "桂皮",
+        "amount": "1小块"
+      }
+    ],
+    "steps": [
+      "五花肉切块，冷水下锅焯水撇去浮沫",
+      "锅中少许油，小火将冰糖炒至棕红色",
+      "放入肉块翻炒上色",
+      "加入姜片、葱段、八角、桂皮炒香",
+      "倒入生抽、老抽、料酒",
+      "加入没过肉块的开水",
+      "大火烧开转小火炖60分钟",
+      "大火收汁即可"
+    ],
+    "nutrition": {
+      "calories": "450kcal",
+      "protein": "18g",
+      "carbs": "15g",
+      "fat": "35g"
+    },
+    "equipment": [
+      "炖锅",
+      "汤锅",
+      "炒锅"
+    ],
+    "difficulty": "困难",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🧂 肉类腌制时加少许油锁住水分，炒出来更嫩滑",
+      "substitute": "🔄 猪肉可用鸡胸肉替换，更低脂健康，口感略不同",
+      "storage": "📦 可冷藏保存2-3天，吃前加热即可。汤类建议当天喝完"
+    },
+    "_id": "d7a310373c342991da0aa1dd"
+  },
+  {
+    "name": "宫保鸡丁",
+    "image": "/api/images/recipes/recipe_03.jpeg",
+    "time": "25分钟",
+    "tags": [
+      "微辣",
+      "下饭",
+      "快手",
+      "肉类",
+      "蔬菜"
+    ],
+    "servings": 2,
+    "rating": 4.6,
+    "ingredients": [
+      {
+        "name": "鸡胸肉",
+        "amount": "300g"
+      },
+      {
+        "name": "花生米",
+        "amount": "50g"
+      },
+      {
+        "name": "干辣椒",
+        "amount": "5个"
+      },
+      {
+        "name": "花椒",
+        "amount": "1茶匙"
+      },
+      {
+        "name": "黄瓜",
+        "amount": "1根"
+      },
+      {
+        "name": "胡萝卜",
+        "amount": "1根"
+      },
+      {
+        "name": "蒜",
+        "amount": "3瓣"
+      },
+      {
+        "name": "生抽",
+        "amount": "2勺"
+      },
+      {
+        "name": "醋",
+        "amount": "1勺"
+      },
+      {
+        "name": "糖",
+        "amount": "1勺"
+      },
+      {
+        "name": "淀粉",
+        "amount": "1勺"
+      }
+    ],
+    "steps": [
+      "鸡胸肉切丁，加料酒、淀粉、少许盐腌制15分钟",
+      "花生米小火炒香备用",
+      "将生抽、醋、糖、淀粉调成汁",
+      "热锅热油下干辣椒和花椒爆香",
+      "放入鸡丁滑炒至变色",
+      "加入黄瓜丁、胡萝卜丁翻炒",
+      "倒入调好的汁快速翻炒",
+      "最后加入花生米，翻匀出锅"
+    ],
+    "nutrition": {
+      "calories": "320kcal",
+      "protein": "28g",
+      "carbs": "15g",
+      "fat": "16g"
+    },
+    "equipment": [
+      "炒锅"
+    ],
+    "difficulty": "中等",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🧂 肉类腌制时加少许油锁住水分，炒出来更嫩滑",
+      "substitute": "🔄 不吃辣可以去掉辣椒，加少量甜椒增色",
+      "storage": "📦 密封冷藏保存1-2天，微波炉加热前洒少许水防干"
+    },
+    "_id": "998f9c9ea6ac9f2012b78933"
+  },
+  {
+    "name": "清蒸鲈鱼",
+    "image": "/api/images/recipes/recipe_04.jpeg",
+    "time": "25分钟",
+    "tags": [
+      "清淡",
+      "快手",
+      "养生",
+      "水产"
+    ],
+    "servings": 2,
+    "rating": 4.7,
+    "ingredients": [
+      {
+        "name": "鲈鱼",
+        "amount": "1条约500g"
+      },
+      {
+        "name": "姜",
+        "amount": "1块"
+      },
+      {
+        "name": "葱",
+        "amount": "3根"
+      },
+      {
+        "name": "蒸鱼豉油",
+        "amount": "2勺"
+      },
+      {
+        "name": "料酒",
+        "amount": "1勺"
+      },
+      {
+        "name": "油",
+        "amount": "2勺"
+      }
+    ],
+    "steps": [
+      "鲈鱼洗净，两面各划三刀",
+      "鱼身上抹料酒和姜片腌制10分钟",
+      "盘中铺姜片，鱼身上放葱段",
+      "水开后上锅蒸8-10分钟",
+      "倒掉盘中蒸出的汁水",
+      "铺上新的姜丝葱丝",
+      "淋上蒸鱼豉油",
+      "热油浇在葱姜丝上即可"
+    ],
+    "nutrition": {
+      "calories": "200kcal",
+      "protein": "30g",
+      "carbs": "3g",
+      "fat": "8g"
+    },
+    "equipment": [
+      "蒸锅"
+    ],
+    "difficulty": "中等",
+    "tips": {
+      "beginner": "🥩 肉类焯水要冷水下锅，水开后撇去浮沫，肉质更嫩",
+      "seasoning": "🧂 清淡菜调味宁少勿多，出锅前尝味再决定是否加盐",
+      "substitute": "🔄 缺某样食材？试试同类替换：青菜换菠菜、猪肉换鸡肉",
+      "storage": "📦 密封冷藏保存1-2天，微波炉加热前洒少许水防干"
+    },
+    "_id": "288118c18520a0be890eb6c1"
+  },
+  {
+    "name": "麻婆豆腐",
+    "image": "/api/images/recipes/recipe_05.jpeg",
+    "time": "20分钟",
+    "tags": [
+      "微辣",
+      "下饭",
+      "快手",
+      "肉类",
+      "豆制品"
+    ],
+    "servings": 2,
+    "rating": 4.7,
+    "ingredients": [
+      {
+        "name": "嫩豆腐",
+        "amount": "1块"
+      },
+      {
+        "name": "猪肉末",
+        "amount": "100g"
+      },
+      {
+        "name": "豆瓣酱",
+        "amount": "1勺"
+      },
+      {
+        "name": "花椒粉",
+        "amount": "1/2茶匙"
+      },
+      {
+        "name": "辣椒粉",
+        "amount": "1/2茶匙"
+      },
+      {
+        "name": "蒜",
+        "amount": "3瓣"
+      },
+      {
+        "name": "姜",
+        "amount": "3片"
+      },
+      {
+        "name": "淀粉",
+        "amount": "1勺"
+      },
+      {
+        "name": "葱",
+        "amount": "1根"
+      }
+    ],
+    "steps": [
+      "豆腐切成2cm方块，开水中加盐焯烫2分钟捞出",
+      "热锅少油，下肉末炒至变色",
+      "加入豆瓣酱炒出红油",
+      "放入姜末蒜末炒香",
+      "加适量水烧开",
+      "放入豆腐，小火煮5分钟入味",
+      "水淀粉勾芡，轻轻推匀",
+      "撒花椒粉和葱花出锅"
+    ],
+    "nutrition": {
+      "calories": "250kcal",
+      "protein": "18g",
+      "carbs": "10g",
+      "fat": "14g"
+    },
+    "equipment": [
+      "汤锅",
+      "炒锅"
+    ],
+    "difficulty": "中等",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🧂 肉类腌制时加少许油锁住水分，炒出来更嫩滑",
+      "substitute": "🔄 猪肉可用鸡胸肉替换，更低脂健康，口感略不同",
+      "storage": "📦 可冷藏保存2-3天，吃前加热即可。汤类建议当天喝完"
+    },
+    "_id": "70048325a21b3c795ca77d2e"
+  },
+  {
+    "name": "酸辣土豆丝",
+    "image": "/api/images/recipes/recipe_06.jpeg",
+    "time": "15分钟",
+    "tags": [
+      "家常",
+      "酸甜",
+      "快手",
+      "蔬菜"
+    ],
+    "servings": 2,
+    "rating": 4.4,
+    "ingredients": [
+      {
+        "name": "土豆",
+        "amount": "2个"
+      },
+      {
+        "name": "干辣椒",
+        "amount": "3个"
+      },
+      {
+        "name": "花椒",
+        "amount": "1/2茶匙"
+      },
+      {
+        "name": "醋",
+        "amount": "2勺"
+      },
+      {
+        "name": "盐",
+        "amount": "1/2茶匙"
+      },
+      {
+        "name": "蒜",
+        "amount": "2瓣"
+      },
+      {
+        "name": "葱",
+        "amount": "1根"
+      }
+    ],
+    "steps": [
+      "土豆去皮切细丝，冷水冲洗去掉淀粉",
+      "捞出沥干水分",
+      "热锅热油，下花椒和干辣椒爆香",
+      "倒入土豆丝大火翻炒",
+      "加盐和一半醋继续翻炒",
+      "土豆丝变透明时加剩余的醋",
+      "加蒜末葱花翻匀出锅"
+    ],
+    "nutrition": {
+      "calories": "150kcal",
+      "protein": "3g",
+      "carbs": "30g",
+      "fat": "3g"
+    },
+    "equipment": [
+      "炒锅"
+    ],
+    "difficulty": "简单",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🍋 糖醋比例记住口诀：1酒2酱3醋4糖（料酒:生抽:醋:糖）",
+      "substitute": "🔄 不吃辣可以去掉辣椒，加少量甜椒增色",
+      "storage": "📦 密封冷藏保存1-2天，微波炉加热前洒少许水防干"
+    },
+    "_id": "8d3c6a8a7b3ec01bbeb2be64"
+  },
+  {
+    "name": "糖醋排骨",
+    "image": "/api/images/recipes/recipe_07.jpeg",
+    "time": "40分钟",
+    "tags": [
+      "酸甜",
+      "下饭",
+      "肉类"
+    ],
+    "servings": 2,
+    "rating": 4.8,
+    "ingredients": [
+      {
+        "name": "排骨",
+        "amount": "500g"
+      },
+      {
+        "name": "料酒",
+        "amount": "1勺"
+      },
+      {
+        "name": "生抽",
+        "amount": "2勺"
+      },
+      {
+        "name": "醋",
+        "amount": "3勺"
+      },
+      {
+        "name": "糖",
+        "amount": "4勺"
+      },
+      {
+        "name": "姜",
+        "amount": "5片"
+      },
+      {
+        "name": "葱",
+        "amount": "2根"
+      },
+      {
+        "name": "白芝麻",
+        "amount": "1茶匙"
+      }
+    ],
+    "steps": [
+      "排骨焯水去血沫，捞出控干",
+      "调糖醋汁：1料酒+2生抽+3醋+4糖",
+      "热锅少许油，下姜片爆香",
+      "放入排骨煎至两面微黄",
+      "倒入糖醋汁和没过排骨的水",
+      "大火烧开转小火炖30分钟",
+      "大火收汁至浓稠",
+      "撒白芝麻和葱花"
+    ],
+    "nutrition": {
+      "calories": "380kcal",
+      "protein": "22g",
+      "carbs": "20g",
+      "fat": "22g"
+    },
+    "equipment": [
+      "炖锅",
+      "汤锅",
+      "平底锅"
+    ],
+    "difficulty": "中等",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🧂 肉类腌制时加少许油锁住水分，炒出来更嫩滑",
+      "substitute": "🔄 缺某样食材？试试同类替换：青菜换菠菜、猪肉换鸡肉",
+      "storage": "📦 可冷藏保存2-3天，吃前加热即可。汤类建议当天喝完"
+    },
+    "_id": "bb5d106620877066bfde3a6a"
+  },
+  {
+    "name": "蒜蓉西兰花",
+    "image": "/api/images/recipes/recipe_08.jpeg",
+    "time": "10分钟",
+    "tags": [
+      "清淡",
+      "快手",
+      "养生",
+      "蔬菜"
+    ],
+    "servings": 2,
+    "rating": 4.2,
+    "ingredients": [
+      {
+        "name": "西兰花",
+        "amount": "1颗"
+      },
+      {
+        "name": "蒜",
+        "amount": "5瓣"
+      },
+      {
+        "name": "盐",
+        "amount": "1/2茶匙"
+      },
+      {
+        "name": "蚝油",
+        "amount": "1勺"
+      },
+      {
+        "name": "油",
+        "amount": "1勺"
+      }
+    ],
+    "steps": [
+      "西兰花掰成小朵，用盐水浸泡10分钟",
+      "沸水中加盐和几滴油，焯烫西兰花1分钟捞出",
+      "蒜切末",
+      "锅中倒油，小火炒香蒜末",
+      "放入西兰花翻炒",
+      "加蚝油和盐调味",
+      "翻炒均匀即可出锅"
+    ],
+    "nutrition": {
+      "calories": "80kcal",
+      "protein": "5g",
+      "carbs": "10g",
+      "fat": "3g"
+    },
+    "equipment": [
+      "汤锅",
+      "炒锅"
+    ],
+    "difficulty": "简单",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🧂 清淡菜调味宁少勿多，出锅前尝味再决定是否加盐",
+      "substitute": "🔄 缺某样食材？试试同类替换：青菜换菠菜、猪肉换鸡肉",
+      "storage": "📦 密封冷藏保存1-2天，微波炉加热前洒少许水防干"
+    },
+    "_id": "42c730dbae2af078ff0e007b"
+  },
+  {
+    "name": "可乐鸡翅",
+    "image": "/api/images/recipes/recipe_09.jpeg",
+    "time": "30分钟",
+    "tags": [
+      "咸甜",
+      "下饭",
+      "快手",
+      "肉类"
+    ],
+    "servings": 2,
+    "rating": 4.6,
+    "ingredients": [
+      {
+        "name": "鸡翅",
+        "amount": "10个"
+      },
+      {
+        "name": "可乐",
+        "amount": "330ml"
+      },
+      {
+        "name": "生抽",
+        "amount": "2勺"
+      },
+      {
+        "name": "老抽",
+        "amount": "1勺"
+      },
+      {
+        "name": "料酒",
+        "amount": "1勺"
+      },
+      {
+        "name": "姜",
+        "amount": "5片"
+      },
+      {
+        "name": "盐",
+        "amount": "少许"
+      }
+    ],
+    "steps": [
+      "鸡翅洗净，两面各划两刀",
+      "冷水下锅加姜片料酒焯水",
+      "捞出控干水分",
+      "热锅少油，将鸡翅煎至两面金黄",
+      "倒入可乐没过鸡翅",
+      "加入生抽老抽",
+      "大火烧开转中火煮15分钟",
+      "收汁至浓稠即可"
+    ],
+    "nutrition": {
+      "calories": "350kcal",
+      "protein": "25g",
+      "carbs": "18g",
+      "fat": "18g"
+    },
+    "equipment": [
+      "汤锅",
+      "平底锅"
+    ],
+    "difficulty": "中等",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🧂 肉类腌制时加少许油锁住水分，炒出来更嫩滑",
+      "substitute": "🔄 缺某样食材？试试同类替换：青菜换菠菜、猪肉换鸡肉",
+      "storage": "📦 可冷藏保存2-3天，吃前加热即可。汤类建议当天喝完"
+    },
+    "_id": "61bcae106640fefbc6e002a6"
+  },
+  {
+    "name": "西红柿鸡蛋汤",
+    "image": "/api/images/recipes/recipe_10.jpeg",
+    "time": "10分钟",
+    "tags": [
+      "家常",
+      "清淡",
+      "快手",
+      "蔬菜",
+      "蛋奶"
+    ],
+    "servings": 2,
+    "rating": 4.3,
+    "ingredients": [
+      {
+        "name": "番茄",
+        "amount": "2个"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": "2个"
+      },
+      {
+        "name": "葱",
+        "amount": "1根"
+      },
+      {
+        "name": "盐",
+        "amount": "1/2茶匙"
+      },
+      {
+        "name": "香油",
+        "amount": "几滴"
+      },
+      {
+        "name": "淀粉",
+        "amount": "1勺"
+      }
+    ],
+    "steps": [
+      "番茄切块，鸡蛋打散",
+      "锅中放油，下番茄炒出汁",
+      "加适量水烧开",
+      "水淀粉勾薄芡",
+      "转小火，筷子上倒蛋液入锅成蛋花",
+      "加盐调味，滴香油",
+      "撒葱花即可"
+    ],
+    "nutrition": {
+      "calories": "120kcal",
+      "protein": "8g",
+      "carbs": "10g",
+      "fat": "5g"
+    },
+    "equipment": [
+      "炒锅"
+    ],
+    "difficulty": "简单",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🧂 肉类腌制时加少许油锁住水分，炒出来更嫩滑",
+      "substitute": "🔄 鸡蛋过敏可用豆腐代替蛋白质来源",
+      "storage": "📦 可冷藏保存2-3天，吃前加热即可。汤类建议当天喝完"
+    },
+    "_id": "36ae3c53d81c0be37943d70d"
+  },
+  {
+    "name": "回锅肉",
+    "image": "/api/images/recipes/recipe_11.jpeg",
+    "time": "30分钟",
+    "tags": [
+      "微辣",
+      "下饭",
+      "家常",
+      "肉类",
+      "蔬菜"
+    ],
+    "servings": 2,
+    "rating": 4.7,
+    "ingredients": [
+      {
+        "name": "五花肉",
+        "amount": "300g"
+      },
+      {
+        "name": "青椒",
+        "amount": "2个"
+      },
+      {
+        "name": "蒜苗",
+        "amount": "2根"
+      },
+      {
+        "name": "豆瓣酱",
+        "amount": "1勺"
+      },
+      {
+        "name": "生抽",
+        "amount": "1勺"
+      },
+      {
+        "name": "姜",
+        "amount": "3片"
+      },
+      {
+        "name": "蒜",
+        "amount": "3瓣"
+      },
+      {
+        "name": "豆豉",
+        "amount": "1茶匙"
+      }
+    ],
+    "steps": [
+      "五花肉整块冷水下锅，加姜片煮20分钟至筷子能插透",
+      "捞出放凉切薄片",
+      "青椒切块，蒜苗切段",
+      "热锅少油，下肉片煸炒至卷曲出油",
+      "下豆瓣酱和豆豉炒出红油",
+      "放入青椒翻炒",
+      "加生抽调味",
+      "最后放蒜苗翻炒出锅"
+    ],
+    "nutrition": {
+      "calories": "400kcal",
+      "protein": "16g",
+      "carbs": "8g",
+      "fat": "34g"
+    },
+    "equipment": [
+      "汤锅",
+      "炒锅"
+    ],
+    "difficulty": "中等",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🧂 肉类腌制时加少许油锁住水分，炒出来更嫩滑",
+      "substitute": "🔄 猪肉可用鸡胸肉替换，更低脂健康，口感略不同",
+      "storage": "📦 可冷藏保存2-3天，吃前加热即可。汤类建议当天喝完"
+    },
+    "_id": "392b80dd6bec25f8d314351e"
+  },
+  {
+    "name": "干煸四季豆",
+    "image": "/api/images/recipes/recipe_12.jpeg",
+    "time": "20分钟",
+    "tags": [
+      "微辣",
+      "下饭",
+      "肉类",
+      "蔬菜"
+    ],
+    "servings": 2,
+    "rating": 4.4,
+    "ingredients": [
+      {
+        "name": "四季豆",
+        "amount": "300g"
+      },
+      {
+        "name": "猪肉末",
+        "amount": "80g"
+      },
+      {
+        "name": "干辣椒",
+        "amount": "4个"
+      },
+      {
+        "name": "花椒",
+        "amount": "1/2茶匙"
+      },
+      {
+        "name": "蒜",
+        "amount": "3瓣"
+      },
+      {
+        "name": "生抽",
+        "amount": "1勺"
+      },
+      {
+        "name": "盐",
+        "amount": "1/2茶匙"
+      }
+    ],
+    "steps": [
+      "四季豆去筋，掰成段，沥干水分",
+      "锅中多放油，下四季豆煸至表皮起皱盛出",
+      "锅中留底油，下肉末炒散",
+      "加干辣椒、花椒、蒜末炒香",
+      "倒回四季豆翻炒",
+      "加生抽和盐调味",
+      "翻炒均匀出锅"
+    ],
+    "nutrition": {
+      "calories": "180kcal",
+      "protein": "10g",
+      "carbs": "15g",
+      "fat": "10g"
+    },
+    "equipment": [
+      "炒锅"
+    ],
+    "difficulty": "简单",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🧂 肉类腌制时加少许油锁住水分，炒出来更嫩滑",
+      "substitute": "🔄 猪肉可用鸡胸肉替换，更低脂健康，口感略不同",
+      "storage": "📦 密封冷藏保存1-2天，微波炉加热前洒少许水防干"
+    },
+    "_id": "b76108c474858c281f19c248"
+  },
+  {
+    "name": "水煮鱼",
+    "image": "/api/images/recipes/recipe_13.jpeg",
+    "time": "35分钟",
+    "tags": [
+      "辣味",
+      "浓郁",
+      "蔬菜",
+      "水产"
+    ],
+    "servings": 3,
+    "rating": 4.8,
+    "ingredients": [
+      {
+        "name": "草鱼",
+        "amount": "1条约750g"
+      },
+      {
+        "name": "豆芽",
+        "amount": "200g"
+      },
+      {
+        "name": "干辣椒",
+        "amount": "10个"
+      },
+      {
+        "name": "花椒",
+        "amount": "2茶匙"
+      },
+      {
+        "name": "豆瓣酱",
+        "amount": "2勺"
+      },
+      {
+        "name": "姜",
+        "amount": "1块"
+      },
+      {
+        "name": "蒜",
+        "amount": "5瓣"
+      },
+      {
+        "name": "淀粉",
+        "amount": "2勺"
+      },
+      {
+        "name": "料酒",
+        "amount": "1勺"
+      },
+      {
+        "name": "盐",
+        "amount": "1茶匙"
+      }
+    ],
+    "steps": [
+      "鱼片用料酒、盐、淀粉腌制20分钟",
+      "豆芽焯水铺在碗底",
+      "热锅热油，下豆瓣酱、姜蒜炒香",
+      "加水烧开，下鱼头和鱼骨煮3分钟",
+      "捞出放在豆芽上",
+      "转小火，下鱼片滑熟捞出入碗",
+      "撒上干辣椒段和花椒",
+      "另起锅烧热油浇在上面即可"
+    ],
+    "nutrition": {
+      "calories": "350kcal",
+      "protein": "35g",
+      "carbs": "8g",
+      "fat": "20g"
+    },
+    "equipment": [
+      "汤锅",
+      "炒锅"
+    ],
+    "difficulty": "中等",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🧂 肉类腌制时加少许油锁住水分，炒出来更嫩滑",
+      "substitute": "🔄 不吃辣可以去掉辣椒，加少量甜椒增色",
+      "storage": "📦 可冷藏保存2-3天，吃前加热即可。汤类建议当天喝完"
+    },
+    "_id": "61d8796e322d57a8339efe2f"
+  },
+  {
+    "name": "蛋炒饭",
+    "image": "/api/images/recipes/recipe_14.jpeg",
+    "time": "10分钟",
+    "tags": [
+      "快手",
+      "家常",
+      "肉类",
+      "蛋奶"
+    ],
+    "servings": 1,
+    "rating": 4.5,
+    "ingredients": [
+      {
+        "name": "米饭",
+        "amount": "1碗"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": "2个"
+      },
+      {
+        "name": "火腿肠",
+        "amount": "1根"
+      },
+      {
+        "name": "葱",
+        "amount": "1根"
+      },
+      {
+        "name": "盐",
+        "amount": "1/4茶匙"
+      },
+      {
+        "name": "油",
+        "amount": "2勺"
+      }
+    ],
+    "steps": [
+      "鸡蛋打散，火腿肠切丁，葱切花",
+      "热锅热油，倒入蛋液快速炒散",
+      "加入米饭，用铲子压散",
+      "大火翻炒，让米饭粒粒分明",
+      "加入火腿丁",
+      "加盐调味",
+      "撒葱花翻炒出锅"
+    ],
+    "nutrition": {
+      "calories": "350kcal",
+      "protein": "12g",
+      "carbs": "45g",
+      "fat": "12g"
+    },
+    "equipment": [
+      "炒锅"
+    ],
+    "difficulty": "简单",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🧂 肉类腌制时加少许油锁住水分，炒出来更嫩滑",
+      "substitute": "🔄 鸡蛋过敏可用豆腐代替蛋白质来源",
+      "storage": "📦 密封冷藏保存1-2天，微波炉加热前洒少许水防干"
+    },
+    "_id": "9027af7a9d5a0e4b5eaffcf5"
+  },
+  {
+    "name": "蚝油生菜",
+    "image": "/api/images/recipes/recipe_15.jpeg",
+    "time": "5分钟",
+    "tags": [
+      "清淡",
+      "快手",
+      "家常",
+      "蔬菜"
+    ],
+    "servings": 2,
+    "rating": 4.1,
+    "ingredients": [
+      {
+        "name": "生菜",
+        "amount": "2颗"
+      },
+      {
+        "name": "蒜",
+        "amount": "3瓣"
+      },
+      {
+        "name": "蚝油",
+        "amount": "2勺"
+      },
+      {
+        "name": "生抽",
+        "amount": "1勺"
+      },
+      {
+        "name": "淀粉",
+        "amount": "1/2勺"
+      },
+      {
+        "name": "油",
+        "amount": "1勺"
+      }
+    ],
+    "steps": [
+      "生菜洗净，蒜切末",
+      "沸水中滴几滴油，放入生菜焯烫10秒捞出装盘",
+      "锅中倒油，小火炒香蒜末",
+      "加入蚝油、生抽和少许水",
+      "水淀粉勾芡煮至微稠",
+      "将料汁浇在生菜上即可"
+    ],
+    "nutrition": {
+      "calories": "60kcal",
+      "protein": "2g",
+      "carbs": "8g",
+      "fat": "2g"
+    },
+    "equipment": [
+      "汤锅",
+      "炒锅"
+    ],
+    "difficulty": "简单",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🧂 清淡菜调味宁少勿多，出锅前尝味再决定是否加盐",
+      "substitute": "🔄 缺某样食材？试试同类替换：青菜换菠菜、猪肉换鸡肉",
+      "storage": "📦 可冷藏保存2-3天，吃前加热即可。汤类建议当天喝完"
+    },
+    "_id": "e305c55627d84a31a727a0e6"
+  },
+  {
+    "name": "青椒肉丝",
+    "image": "/api/images/recipes/recipe_16.jpeg",
+    "time": "20分钟",
+    "tags": [
+      "家常",
+      "下饭",
+      "快手",
+      "蔬菜"
+    ],
+    "servings": 2,
+    "rating": 4.4,
+    "ingredients": [
+      {
+        "name": "猪里脊",
+        "amount": "200g"
+      },
+      {
+        "name": "青椒",
+        "amount": "3个"
+      },
+      {
+        "name": "姜",
+        "amount": "3片"
+      },
+      {
+        "name": "蒜",
+        "amount": "2瓣"
+      },
+      {
+        "name": "生抽",
+        "amount": "1勺"
+      },
+      {
+        "name": "料酒",
+        "amount": "1勺"
+      },
+      {
+        "name": "淀粉",
+        "amount": "1勺"
+      },
+      {
+        "name": "盐",
+        "amount": "1/2茶匙"
+      }
+    ],
+    "steps": [
+      "猪肉切丝，加料酒、生抽、淀粉腌制10分钟",
+      "青椒切丝",
+      "热锅热油，下肉丝滑炒至变色盛出",
+      "锅中留底油，放姜蒜爆香",
+      "加入青椒丝翻炒",
+      "倒回肉丝",
+      "加生抽和盐调味",
+      "翻炒均匀出锅"
+    ],
+    "nutrition": {
+      "calories": "200kcal",
+      "protein": "18g",
+      "carbs": "8g",
+      "fat": "10g"
+    },
+    "equipment": [
+      "炒锅"
+    ],
+    "difficulty": "中等",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🧂 盐要最后放，早放会让蔬菜出水、肉质变老",
+      "substitute": "🔄 缺某样食材？试试同类替换：青菜换菠菜、猪肉换鸡肉",
+      "storage": "📦 密封冷藏保存1-2天，微波炉加热前洒少许水防干"
+    },
+    "_id": "d1447b026b0dd11556d69cf4"
+  },
+  {
+    "name": "地三鲜",
+    "image": "/api/images/recipes/recipe_17.jpeg",
+    "time": "30分钟",
+    "tags": [
+      "家常",
+      "下饭",
+      "蔬菜"
+    ],
+    "servings": 2,
+    "rating": 4.5,
+    "ingredients": [
+      {
+        "name": "土豆",
+        "amount": "1个"
+      },
+      {
+        "name": "茄子",
+        "amount": "1个"
+      },
+      {
+        "name": "青椒",
+        "amount": "2个"
+      },
+      {
+        "name": "蒜",
+        "amount": "3瓣"
+      },
+      {
+        "name": "生抽",
+        "amount": "2勺"
+      },
+      {
+        "name": "老抽",
+        "amount": "1/2勺"
+      },
+      {
+        "name": "糖",
+        "amount": "1/2茶匙"
+      },
+      {
+        "name": "淀粉",
+        "amount": "1勺"
+      }
+    ],
+    "steps": [
+      "土豆、茄子、青椒分别切滚刀块",
+      "土豆和茄子分别过油至表面金黄捞出",
+      "锅中留底油，下蒜末爆香",
+      "加水、生抽、老抽、糖烧开",
+      "放入三种食材翻炒",
+      "水淀粉勾芡",
+      "收汁出锅"
+    ],
+    "nutrition": {
+      "calories": "280kcal",
+      "protein": "5g",
+      "carbs": "40g",
+      "fat": "12g"
+    },
+    "equipment": [
+      "炒锅"
+    ],
+    "difficulty": "中等",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🧂 盐要最后放，早放会让蔬菜出水、肉质变老",
+      "substitute": "🔄 缺某样食材？试试同类替换：青菜换菠菜、猪肉换鸡肉",
+      "storage": "📦 密封冷藏保存1-2天，微波炉加热前洒少许水防干"
+    },
+    "_id": "5b2957628a98d6ae862be731"
+  },
+  {
+    "name": "红烧牛腩",
+    "image": "/api/images/recipes/recipe_18.jpeg",
+    "time": "120分钟",
+    "tags": [
+      "浓郁",
+      "红烧",
+      "下饭",
+      "肉类",
+      "蔬菜"
+    ],
+    "servings": 3,
+    "rating": 4.8,
+    "ingredients": [
+      {
+        "name": "牛腩",
+        "amount": "500g"
+      },
+      {
+        "name": "土豆",
+        "amount": "1个"
+      },
+      {
+        "name": "胡萝卜",
+        "amount": "1根"
+      },
+      {
+        "name": "洋葱",
+        "amount": "半个"
+      },
+      {
+        "name": "番茄",
+        "amount": "1个"
+      },
+      {
+        "name": "姜",
+        "amount": "5片"
+      },
+      {
+        "name": "八角",
+        "amount": "2个"
+      },
+      {
+        "name": "桂皮",
+        "amount": "1小块"
+      },
+      {
+        "name": "生抽",
+        "amount": "3勺"
+      },
+      {
+        "name": "老抽",
+        "amount": "1勺"
+      },
+      {
+        "name": "料酒",
+        "amount": "2勺"
+      },
+      {
+        "name": "冰糖",
+        "amount": "15g"
+      }
+    ],
+    "steps": [
+      "牛腩切块焯水去血沫",
+      "锅中炒化冰糖至棕红色",
+      "放入牛腩翻炒上色",
+      "加姜片、八角、桂皮炒香",
+      "加生抽老抽料酒",
+      "加足量开水，大火烧开转小火炖1.5小时",
+      "放入土豆、胡萝卜、洋葱、番茄",
+      "再炖30分钟至食材软烂",
+      "大火收汁"
+    ],
+    "nutrition": {
+      "calories": "420kcal",
+      "protein": "32g",
+      "carbs": "25g",
+      "fat": "20g"
+    },
+    "equipment": [
+      "炖锅",
+      "汤锅",
+      "炒锅"
+    ],
+    "difficulty": "困难",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🧂 肉类腌制时加少许油锁住水分，炒出来更嫩滑",
+      "substitute": "🔄 缺某样食材？试试同类替换：青菜换菠菜、猪肉换鸡肉",
+      "storage": "📦 可冷藏保存2-3天，吃前加热即可。汤类建议当天喝完"
+    },
+    "_id": "fbfe18cd51d67fb0fc88f5fb"
+  },
+  {
+    "name": "拍黄瓜",
+    "image": "/api/images/recipes/recipe_19.jpeg",
+    "time": "5分钟",
+    "tags": [
+      "凉菜",
+      "快手",
+      "清淡",
+      "蔬菜"
+    ],
+    "servings": 1,
+    "rating": 4.3,
+    "ingredients": [
+      {
+        "name": "黄瓜",
+        "amount": "2根"
+      },
+      {
+        "name": "蒜",
+        "amount": "3瓣"
+      },
+      {
+        "name": "醋",
+        "amount": "2勺"
+      },
+      {
+        "name": "生抽",
+        "amount": "1勺"
+      },
+      {
+        "name": "辣椒油",
+        "amount": "1勺"
+      },
+      {
+        "name": "糖",
+        "amount": "1/2茶匙"
+      },
+      {
+        "name": "盐",
+        "amount": "1/4茶匙"
+      },
+      {
+        "name": "香油",
+        "amount": "几滴"
+      }
+    ],
+    "steps": [
+      "黄瓜洗净，用刀面拍裂后切段",
+      "放入碗中加盐腌制5分钟，倒出水分",
+      "蒜切末",
+      "将醋、生抽、辣椒油、糖、香油调成汁",
+      "料汁和蒜末浇在黄瓜上",
+      "拌匀即可"
+    ],
+    "nutrition": {
+      "calories": "60kcal",
+      "protein": "2g",
+      "carbs": "8g",
+      "fat": "3g"
+    },
+    "equipment": [
+      "拌碗"
+    ],
+    "difficulty": "简单",
+    "tips": {
+      "beginner": "👨‍🍳 第一次做先通读一遍步骤，心中有数再动手",
+      "seasoning": "🧂 清淡菜调味宁少勿多，出锅前尝味再决定是否加盐",
+      "substitute": "🔄 不吃辣可以去掉辣椒，加少量甜椒增色",
+      "storage": "📦 凉菜现做现吃最佳，冷藏后口感下降，不宜过夜"
+    },
+    "_id": "bb9851305a37b1a69c93b471"
+  },
+  {
+    "name": "葱油拌面",
+    "image": "/api/images/recipes/recipe_20.jpeg",
+    "time": "15分钟",
+    "tags": [
+      "快手",
+      "家常"
+    ],
+    "servings": 1,
+    "rating": 4.5,
+    "ingredients": [
+      {
+        "name": "面条",
+        "amount": "200g"
+      },
+      {
+        "name": "葱",
+        "amount": "5根"
+      },
+      {
+        "name": "生抽",
+        "amount": "3勺"
+      },
+      {
+        "name": "老抽",
+        "amount": "1勺"
+      },
+      {
+        "name": "糖",
+        "amount": "1茶匙"
+      },
+      {
+        "name": "油",
+        "amount": "4勺"
+      }
+    ],
+    "steps": [
+      "大葱切段",
+      "锅中倒油，小火慢炸葱段至焦黄捞出",
+      "将生抽、老抽、糖加入葱油中小火搅匀关火",
+      "面条煮熟捞出",
+      "浇上葱油汁拌匀",
+      "放上炸好的葱段即可"
+    ],
+    "nutrition": {
+      "calories": "380kcal",
+      "protein": "10g",
+      "carbs": "50g",
+      "fat": "15g"
+    },
+    "equipment": [
+      "汤锅",
+      "拌碗",
+      "油炸锅"
+    ],
+    "difficulty": "简单",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🧂 盐要最后放，早放会让蔬菜出水、肉质变老",
+      "substitute": "🔄 缺某样食材？试试同类替换：青菜换菠菜、猪肉换鸡肉",
+      "storage": "📦 可冷藏保存2-3天，吃前加热即可。汤类建议当天喝完"
+    },
+    "_id": "d145cbd7629fc39493626f51"
+  },
+  {
+    "name": "茄子烧豆角",
+    "image": "/api/images/recipes/recipe_21.jpeg",
+    "time": "20分钟",
+    "tags": [
+      "家常",
+      "下饭",
+      "蔬菜"
+    ],
+    "servings": 2,
+    "rating": 4.3,
+    "ingredients": [
+      {
+        "name": "茄子",
+        "amount": "1个"
+      },
+      {
+        "name": "豆角",
+        "amount": "200g"
+      },
+      {
+        "name": "干辣椒",
+        "amount": "3个"
+      },
+      {
+        "name": "蒜",
+        "amount": "3瓣"
+      },
+      {
+        "name": "生抽",
+        "amount": "2勺"
+      },
+      {
+        "name": "蚝油",
+        "amount": "1勺"
+      },
+      {
+        "name": "盐",
+        "amount": "1/2茶匙"
+      }
+    ],
+    "steps": [
+      "茄子切条，豆角掰段",
+      "锅中多油，分别将茄子和豆角过油捞出",
+      "锅中留底油，下干辣椒和蒜末爆香",
+      "放入茄子和豆角翻炒",
+      "加生抽、蚝油、盐调味",
+      "翻炒均匀出锅"
+    ],
+    "nutrition": {
+      "calories": "160kcal",
+      "protein": "5g",
+      "carbs": "20g",
+      "fat": "8g"
+    },
+    "equipment": [
+      "炒锅"
+    ],
+    "difficulty": "简单",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🧂 盐要最后放，早放会让蔬菜出水、肉质变老",
+      "substitute": "🔄 不吃辣可以去掉辣椒，加少量甜椒增色",
+      "storage": "📦 密封冷藏保存1-2天，微波炉加热前洒少许水防干"
+    },
+    "_id": "6d750ed3d0194b9d55ac0a9f"
+  },
+  {
+    "name": "苦瓜炒蛋",
+    "image": "/api/images/recipes/recipe_22.jpeg",
+    "time": "15分钟",
+    "tags": [
+      "家常",
+      "快手",
+      "养生",
+      "蔬菜",
+      "蛋奶"
+    ],
+    "servings": 2,
+    "rating": 4,
+    "ingredients": [
+      {
+        "name": "苦瓜",
+        "amount": "1根"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": "3个"
+      },
+      {
+        "name": "蒜",
+        "amount": "2瓣"
+      },
+      {
+        "name": "盐",
+        "amount": "1/2茶匙"
+      },
+      {
+        "name": "油",
+        "amount": "2勺"
+      }
+    ],
+    "steps": [
+      "苦瓜对半切开，去瓤切片",
+      "加盐腌制10分钟挤出苦水",
+      "鸡蛋打散",
+      "苦瓜焯水1分钟捞出",
+      "热锅热油，下苦瓜翻炒",
+      "倒入蛋液",
+      "等蛋液半凝固时翻炒",
+      "加盐调味出锅"
+    ],
+    "nutrition": {
+      "calories": "150kcal",
+      "protein": "10g",
+      "carbs": "6g",
+      "fat": "9g"
+    },
+    "equipment": [
+      "汤锅",
+      "炒锅"
+    ],
+    "difficulty": "中等",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🧂 肉类腌制时加少许油锁住水分，炒出来更嫩滑",
+      "substitute": "🔄 鸡蛋过敏可用豆腐代替蛋白质来源",
+      "storage": "📦 密封冷藏保存1-2天，微波炉加热前洒少许水防干"
+    },
+    "_id": "e84bcde9c3e404400a05741f"
+  },
+  {
+    "name": "红烧鲫鱼",
+    "image": "/api/images/recipes/recipe_23.jpeg",
+    "time": "35分钟",
+    "tags": [
+      "红烧",
+      "下饭",
+      "水产"
+    ],
+    "servings": 2,
+    "rating": 4.6,
+    "ingredients": [
+      {
+        "name": "鲫鱼",
+        "amount": "1条约400g"
+      },
+      {
+        "name": "姜",
+        "amount": "1块"
+      },
+      {
+        "name": "葱",
+        "amount": "2根"
+      },
+      {
+        "name": "蒜",
+        "amount": "3瓣"
+      },
+      {
+        "name": "料酒",
+        "amount": "1勺"
+      },
+      {
+        "name": "生抽",
+        "amount": "2勺"
+      },
+      {
+        "name": "老抽",
+        "amount": "1/2勺"
+      },
+      {
+        "name": "糖",
+        "amount": "1/2茶匙"
+      },
+      {
+        "name": "豆瓣酱",
+        "amount": "1/2勺"
+      }
+    ],
+    "steps": [
+      "鲫鱼处理干净，两面划刀，用料酒和姜腌制10分钟",
+      "擦干鱼身水分",
+      "热锅热油，将鱼煎至两面金黄",
+      "加入姜蒜和豆瓣酱炒香",
+      "加生抽、老抽、糖和半碗水",
+      "大火烧开转小火炖10分钟",
+      "翻面再炖5分钟",
+      "大火收汁，撒葱花"
+    ],
+    "nutrition": {
+      "calories": "280kcal",
+      "protein": "28g",
+      "carbs": "5g",
+      "fat": "16g"
+    },
+    "equipment": [
+      "炖锅",
+      "平底锅",
+      "炒锅"
+    ],
+    "difficulty": "中等",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🧂 肉类腌制时加少许油锁住水分，炒出来更嫩滑",
+      "substitute": "🔄 缺某样食材？试试同类替换：青菜换菠菜、猪肉换鸡肉",
+      "storage": "📦 可冷藏保存2-3天，吃前加热即可。汤类建议当天喝完"
+    },
+    "_id": "7136a2456cddf1e4fb28cfd7"
+  },
+  {
+    "name": "香菇鸡汤",
+    "image": "/api/images/recipes/recipe_24.jpeg",
+    "time": "90分钟",
+    "tags": [
+      "清淡",
+      "养生",
+      "浓郁",
+      "蔬菜"
+    ],
+    "servings": 3,
+    "rating": 4.7,
+    "ingredients": [
+      {
+        "name": "鸡",
+        "amount": "半只"
+      },
+      {
+        "name": "干香菇",
+        "amount": "8朵"
+      },
+      {
+        "name": "红枣",
+        "amount": "5颗"
+      },
+      {
+        "name": "枸杞",
+        "amount": "1小把"
+      },
+      {
+        "name": "姜",
+        "amount": "5片"
+      },
+      {
+        "name": "料酒",
+        "amount": "1勺"
+      },
+      {
+        "name": "盐",
+        "amount": "1茶匙"
+      }
+    ],
+    "steps": [
+      "鸡肉切块焯水去血沫",
+      "干香菇提前泡发",
+      "砂锅中放入鸡肉、姜片、料酒和足量水",
+      "大火烧开撇去浮沫",
+      "转小火炖1小时",
+      "加入香菇、红枣再炖20分钟",
+      "加枸杞和盐调味",
+      "再炖5分钟即可"
+    ],
+    "nutrition": {
+      "calories": "300kcal",
+      "protein": "28g",
+      "carbs": "10g",
+      "fat": "16g"
+    },
+    "equipment": [
+      "炖锅",
+      "汤锅"
+    ],
+    "difficulty": "困难",
+    "tips": {
+      "beginner": "🕐 炖煮中途尽量少开锅盖，保持温度和蒸汽循环",
+      "seasoning": "🍯 糖色炒到棕红色冒小泡时立刻下肉，上色最佳",
+      "substitute": "🔄 缺某样食材？试试同类替换：青菜换菠菜、猪肉换鸡肉",
+      "storage": "📦 可冷藏保存2-3天，吃前加热即可。汤类建议当天喝完"
+    },
+    "_id": "546bb8dbce3fafa299cf51f8"
+  },
+  {
+    "name": "炒合菜",
+    "image": "/api/images/recipes/recipe_25.jpeg",
+    "time": "15分钟",
+    "tags": [
+      "家常",
+      "快手",
+      "下饭",
+      "蔬菜",
+      "蛋奶"
+    ],
+    "servings": 2,
+    "rating": 4.2,
+    "ingredients": [
+      {
+        "name": "绿豆芽",
+        "amount": "200g"
+      },
+      {
+        "name": "粉丝",
+        "amount": "1把"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": "2个"
+      },
+      {
+        "name": "韭菜",
+        "amount": "100g"
+      },
+      {
+        "name": "生抽",
+        "amount": "1勺"
+      },
+      {
+        "name": "盐",
+        "amount": "1/2茶匙"
+      },
+      {
+        "name": "蒜",
+        "amount": "2瓣"
+      }
+    ],
+    "steps": [
+      "粉丝用温水泡软，鸡蛋打散炒熟备用",
+      "韭菜切段",
+      "热锅热油，蒜末爆香",
+      "下豆芽大火快炒",
+      "放入粉丝翻炒",
+      "倒入鸡蛋",
+      "加生抽和盐调味",
+      "最后放韭菜翻炒出锅"
+    ],
+    "nutrition": {
+      "calories": "200kcal",
+      "protein": "10g",
+      "carbs": "25g",
+      "fat": "7g"
+    },
+    "equipment": [
+      "炒锅"
+    ],
+    "difficulty": "中等",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🧂 肉类腌制时加少许油锁住水分，炒出来更嫩滑",
+      "substitute": "🔄 缺某样食材？试试同类替换：青菜换菠菜、猪肉换鸡肉",
+      "storage": "📦 密封冷藏保存1-2天，微波炉加热前洒少许水防干"
+    },
+    "_id": "09f033556c2b4272199ae2a8"
+  },
+  {
+    "name": "虎皮青椒",
+    "image": "/api/images/recipes/recipe_26.jpeg",
+    "time": "10分钟",
+    "tags": [
+      "快手",
+      "家常",
+      "下饭",
+      "蔬菜"
+    ],
+    "servings": 2,
+    "rating": 4.3,
+    "ingredients": [
+      {
+        "name": "青椒",
+        "amount": "4个"
+      },
+      {
+        "name": "蒜",
+        "amount": "3瓣"
+      },
+      {
+        "name": "生抽",
+        "amount": "2勺"
+      },
+      {
+        "name": "醋",
+        "amount": "1勺"
+      },
+      {
+        "name": "糖",
+        "amount": "1/2茶匙"
+      },
+      {
+        "name": "盐",
+        "amount": "1/4茶匙"
+      }
+    ],
+    "steps": [
+      "青椒去蒂去籽，用刀拍扁",
+      "调酱汁：生抽+醋+糖+盐",
+      "热锅不放油，干煸青椒至表皮焦黄起皱",
+      "推到一边，加油和蒜末炒香",
+      "淋入酱汁翻炒均匀",
+      "出锅装盘"
+    ],
+    "nutrition": {
+      "calories": "60kcal",
+      "protein": "2g",
+      "carbs": "10g",
+      "fat": "2g"
+    },
+    "equipment": [
+      "炒锅"
+    ],
+    "difficulty": "简单",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🧂 盐要最后放，早放会让蔬菜出水、肉质变老",
+      "substitute": "🔄 缺某样食材？试试同类替换：青菜换菠菜、猪肉换鸡肉",
+      "storage": "📦 密封冷藏保存1-2天，微波炉加热前洒少许水防干"
+    },
+    "_id": "8bcf7fc81d3cad13e7498ef8"
+  },
+  {
+    "name": "白灼虾",
+    "image": "/api/images/recipes/recipe_27.jpeg",
+    "time": "10分钟",
+    "tags": [
+      "清淡",
+      "快手",
+      "养生",
+      "水产"
+    ],
+    "servings": 2,
+    "rating": 4.6,
+    "ingredients": [
+      {
+        "name": "虾",
+        "amount": "300g"
+      },
+      {
+        "name": "姜",
+        "amount": "5片"
+      },
+      {
+        "name": "葱",
+        "amount": "2根"
+      },
+      {
+        "name": "料酒",
+        "amount": "1勺"
+      },
+      {
+        "name": "生抽",
+        "amount": "2勺"
+      },
+      {
+        "name": "醋",
+        "amount": "1勺"
+      },
+      {
+        "name": "蒜",
+        "amount": "3瓣"
+      }
+    ],
+    "steps": [
+      "虾剪去虾须，挑去虾线",
+      "锅中加水、姜片、葱段、料酒烧开",
+      "放入虾，煮至变红卷曲约2分钟",
+      "捞出装盘",
+      "蒜切末，加生抽和醋调成蘸料",
+      "蘸料食用"
+    ],
+    "nutrition": {
+      "calories": "180kcal",
+      "protein": "30g",
+      "carbs": "2g",
+      "fat": "4g"
+    },
+    "equipment": [
+      "汤锅"
+    ],
+    "difficulty": "简单",
+    "tips": {
+      "beginner": "🕐 炖煮中途尽量少开锅盖，保持温度和蒸汽循环",
+      "seasoning": "🧂 清淡菜调味宁少勿多，出锅前尝味再决定是否加盐",
+      "substitute": "🔄 缺某样食材？试试同类替换：青菜换菠菜、猪肉换鸡肉",
+      "storage": "📦 可冷藏保存2-3天，吃前加热即可。汤类建议当天喝完"
+    },
+    "_id": "a23cbef102e7872a67726d97"
+  },
+  {
+    "name": "蛋花紫菜汤",
+    "image": "/api/images/recipes/recipe_28.jpeg",
+    "time": "5分钟",
+    "tags": [
+      "快手",
+      "清淡",
+      "家常",
+      "水产",
+      "蛋奶"
+    ],
+    "servings": 2,
+    "rating": 4,
+    "ingredients": [
+      {
+        "name": "鸡蛋",
+        "amount": "1个"
+      },
+      {
+        "name": "紫菜",
+        "amount": "1小片"
+      },
+      {
+        "name": "虾皮",
+        "amount": "1小把"
+      },
+      {
+        "name": "葱",
+        "amount": "1根"
+      },
+      {
+        "name": "盐",
+        "amount": "1/2茶匙"
+      },
+      {
+        "name": "香油",
+        "amount": "几滴"
+      }
+    ],
+    "steps": [
+      "鸡蛋打散，紫菜撕碎",
+      "锅中加水烧开",
+      "放入紫菜和虾皮",
+      "转小火，慢慢倒入蛋液成蛋花",
+      "加盐调味",
+      "滴香油，撒葱花"
+    ],
+    "nutrition": {
+      "calories": "60kcal",
+      "protein": "5g",
+      "carbs": "3g",
+      "fat": "3g"
+    },
+    "equipment": [
+      "炒锅"
+    ],
+    "difficulty": "简单",
+    "tips": {
+      "beginner": "🥩 肉类焯水要冷水下锅，水开后撇去浮沫，肉质更嫩",
+      "seasoning": "🧂 清淡菜调味宁少勿多，出锅前尝味再决定是否加盐",
+      "substitute": "🔄 鸡蛋过敏可用豆腐代替蛋白质来源",
+      "storage": "📦 可冷藏保存2-3天，吃前加热即可。汤类建议当天喝完"
+    },
+    "_id": "ed95a1b6353c2fcc204be685"
+  },
+  {
+    "name": "大盘鸡",
+    "image": "/api/images/recipes/recipe_29.jpeg",
+    "time": "60分钟",
+    "tags": [
+      "辣味",
+      "浓郁",
+      "下饭",
+      "蔬菜"
+    ],
+    "servings": 3,
+    "rating": 4.8,
+    "ingredients": [
+      {
+        "name": "鸡",
+        "amount": "半只"
+      },
+      {
+        "name": "土豆",
+        "amount": "2个"
+      },
+      {
+        "name": "青椒",
+        "amount": "2个"
+      },
+      {
+        "name": "洋葱",
+        "amount": "半个"
+      },
+      {
+        "name": "干辣椒",
+        "amount": "5个"
+      },
+      {
+        "name": "花椒",
+        "amount": "1茶匙"
+      },
+      {
+        "name": "八角",
+        "amount": "2个"
+      },
+      {
+        "name": "豆瓣酱",
+        "amount": "1勺"
+      },
+      {
+        "name": "生抽",
+        "amount": "2勺"
+      },
+      {
+        "name": "姜",
+        "amount": "1块"
+      },
+      {
+        "name": "蒜",
+        "amount": "5瓣"
+      }
+    ],
+    "steps": [
+      "鸡切块焯水，土豆去皮切块",
+      "热锅热油，放冰糖炒化",
+      "下鸡块翻炒上色",
+      "加豆瓣酱、干辣椒、花椒、八角、姜蒜炒香",
+      "加生抽和水没过鸡块炖30分钟",
+      "加入土豆块炖15分钟",
+      "放青椒洋葱再炖5分钟",
+      "大火收汁配面条或米饭食用"
+    ],
+    "nutrition": {
+      "calories": "450kcal",
+      "protein": "30g",
+      "carbs": "35g",
+      "fat": "20g"
+    },
+    "equipment": [
+      "炖锅",
+      "汤锅",
+      "炒锅"
+    ],
+    "difficulty": "中等",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🧂 肉类腌制时加少许油锁住水分，炒出来更嫩滑",
+      "substitute": "🔄 不吃辣可以去掉辣椒，加少量甜椒增色",
+      "storage": "📦 可冷藏保存2-3天，吃前加热即可。汤类建议当天喝完"
+    },
+    "_id": "f5f7e0964aec65db8970ecf9"
+  },
+  {
+    "name": "锅包肉",
+    "image": "/api/images/recipes/recipe_30.jpeg",
+    "time": "25分钟",
+    "tags": [
+      "酸甜",
+      "蔬菜"
+    ],
+    "servings": 2,
+    "rating": 4.5,
+    "ingredients": [
+      {
+        "name": "猪里脊",
+        "amount": "250g"
+      },
+      {
+        "name": "胡萝卜",
+        "amount": "1/2根"
+      },
+      {
+        "name": "葱",
+        "amount": "1根"
+      },
+      {
+        "name": "姜",
+        "amount": "3片"
+      },
+      {
+        "name": "淀粉",
+        "amount": "100g"
+      },
+      {
+        "name": "白醋",
+        "amount": "3勺"
+      },
+      {
+        "name": "糖",
+        "amount": "3勺"
+      },
+      {
+        "name": "盐",
+        "amount": "1/4茶匙"
+      },
+      {
+        "name": "料酒",
+        "amount": "1勺"
+      }
+    ],
+    "steps": [
+      "猪肉切厚片，加料酒和盐腌制",
+      "淀粉加水调成浓糊，肉片裹糊",
+      "热油炸至金黄捞出",
+      "油温升高复炸一次至酥脆",
+      "另起锅，白醋+糖+少许盐煮开",
+      "放入姜丝、胡萝卜丝、葱丝",
+      "倒入炸好的肉片快速翻炒裹汁",
+      "出锅"
+    ],
+    "nutrition": {
+      "calories": "380kcal",
+      "protein": "22g",
+      "carbs": "45g",
+      "fat": "12g"
+    },
+    "equipment": [
+      "汤锅",
+      "油炸锅",
+      "炒锅"
+    ],
+    "difficulty": "中等",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🍋 糖醋比例记住口诀：1酒2酱3醋4糖（料酒:生抽:醋:糖）",
+      "substitute": "🔄 缺某样食材？试试同类替换：青菜换菠菜、猪肉换鸡肉",
+      "storage": "📦 可冷藏保存2-3天，吃前加热即可。汤类建议当天喝完"
+    },
+    "_id": "223a14f03eb5e43ac9059a14"
+  },
+  {
+    "name": "韭菜盒子",
+    "image": "/api/images/recipes/recipe_31.jpeg",
+    "time": "35分钟",
+    "tags": [
+      "家常",
+      "蔬菜",
+      "水产",
+      "蛋奶"
+    ],
+    "servings": 2,
+    "rating": 4.3,
+    "ingredients": [
+      {
+        "name": "面粉",
+        "amount": "300g"
+      },
+      {
+        "name": "韭菜",
+        "amount": "200g"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": "3个"
+      },
+      {
+        "name": "虾皮",
+        "amount": "1小把"
+      },
+      {
+        "name": "盐",
+        "amount": "1/2茶匙"
+      },
+      {
+        "name": "香油",
+        "amount": "1勺"
+      },
+      {
+        "name": "油",
+        "amount": "适量"
+      }
+    ],
+    "steps": [
+      "面粉加热水和成面团，醒20分钟",
+      "鸡蛋打散炒熟捣碎",
+      "韭菜切碎，加香油拌匀",
+      "将鸡蛋、韭菜、虾皮混合加盐",
+      "面团分剂擀成圆皮",
+      "包入馅料对折捏边",
+      "平底锅少油，中小火煎至两面金黄"
+    ],
+    "nutrition": {
+      "calories": "350kcal",
+      "protein": "12g",
+      "carbs": "50g",
+      "fat": "12g"
+    },
+    "equipment": [
+      "平底锅",
+      "拌碗",
+      "炒锅"
+    ],
+    "difficulty": "中等",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🧂 肉类腌制时加少许油锁住水分，炒出来更嫩滑",
+      "substitute": "🔄 缺某样食材？试试同类替换：青菜换菠菜、猪肉换鸡肉",
+      "storage": "📦 密封冷藏保存1-2天，微波炉加热前洒少许水防干"
+    },
+    "_id": "d820bdd0c05f23ac7bb7003e"
+  },
+  {
+    "name": "蒜蓉粉丝蒸虾",
+    "image": "/api/images/recipes/recipe_32.jpeg",
+    "time": "15分钟",
+    "tags": [
+      "清淡",
+      "快手",
+      "水产"
+    ],
+    "servings": 2,
+    "rating": 4.6,
+    "ingredients": [
+      {
+        "name": "虾",
+        "amount": "200g"
+      },
+      {
+        "name": "粉丝",
+        "amount": "1把"
+      },
+      {
+        "name": "蒜",
+        "amount": "6瓣"
+      },
+      {
+        "name": "生抽",
+        "amount": "2勺"
+      },
+      {
+        "name": "蚝油",
+        "amount": "1勺"
+      },
+      {
+        "name": "葱",
+        "amount": "1根"
+      }
+    ],
+    "steps": [
+      "粉丝温水泡软铺在盘底",
+      "虾开背去虾线，摆在粉丝上",
+      "大量蒜切末，一半炸金黄做成金银蒜",
+      "金银蒜加生抽蚝油调成酱",
+      "酱料均匀淋在虾身上",
+      "上锅蒸8分钟",
+      "出锅撒葱花，浇热油"
+    ],
+    "nutrition": {
+      "calories": "200kcal",
+      "protein": "22g",
+      "carbs": "20g",
+      "fat": "5g"
+    },
+    "equipment": [
+      "油炸锅",
+      "蒸锅"
+    ],
+    "difficulty": "简单",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🧂 肉类腌制时加少许油锁住水分，炒出来更嫩滑",
+      "substitute": "🔄 缺某样食材？试试同类替换：青菜换菠菜、猪肉换鸡肉",
+      "storage": "📦 密封冷藏保存1-2天，微波炉加热前洒少许水防干"
+    },
+    "_id": "b336c7937de485b6409b12fe"
+  },
+  {
+    "name": "京酱肉丝",
+    "image": "/api/images/recipes/recipe_33.jpeg",
+    "time": "20分钟",
+    "tags": [
+      "家常",
+      "下饭"
+    ],
+    "servings": 2,
+    "rating": 4.5,
+    "ingredients": [
+      {
+        "name": "猪里脊",
+        "amount": "250g"
+      },
+      {
+        "name": "大葱",
+        "amount": "1根"
+      },
+      {
+        "name": "甜面酱",
+        "amount": "2勺"
+      },
+      {
+        "name": "生抽",
+        "amount": "1勺"
+      },
+      {
+        "name": "料酒",
+        "amount": "1勺"
+      },
+      {
+        "name": "淀粉",
+        "amount": "1勺"
+      },
+      {
+        "name": "糖",
+        "amount": "1/2茶匙"
+      }
+    ],
+    "steps": [
+      "猪肉切丝，加料酒、淀粉腌制",
+      "大葱白切细丝铺盘底",
+      "热锅热油，下肉丝滑炒至变色盛出",
+      "锅中留底油，小火炒香甜面酱",
+      "加生抽和糖",
+      "倒回肉丝快速翻炒使每根肉丝裹上酱",
+      "盛在葱丝上即可"
+    ],
+    "nutrition": {
+      "calories": "250kcal",
+      "protein": "20g",
+      "carbs": "12g",
+      "fat": "12g"
+    },
+    "equipment": [
+      "炒锅"
+    ],
+    "difficulty": "简单",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🧂 盐要最后放，早放会让蔬菜出水、肉质变老",
+      "substitute": "🔄 缺某样食材？试试同类替换：青菜换菠菜、猪肉换鸡肉",
+      "storage": "📦 密封冷藏保存1-2天，微波炉加热前洒少许水防干"
+    },
+    "_id": "42cc9c4c82b4604af76d904c"
+  },
+  {
+    "name": "拔丝地瓜",
+    "image": "/api/images/recipes/recipe_34.jpeg",
+    "time": "25分钟",
+    "tags": [
+      "甜"
+    ],
+    "servings": 2,
+    "rating": 4.4,
+    "ingredients": [
+      {
+        "name": "红薯",
+        "amount": "2个"
+      },
+      {
+        "name": "白糖",
+        "amount": "150g"
+      },
+      {
+        "name": "油",
+        "amount": "适量"
+      },
+      {
+        "name": "白芝麻",
+        "amount": "1茶匙"
+      }
+    ],
+    "steps": [
+      "红薯去皮切滚刀块",
+      "热油炸红薯至金黄熟透捞出",
+      "锅中留少许底油，加白糖小火熬化",
+      "不停搅拌至糖浆变浅棕色",
+      "放入红薯快速翻匀",
+      "装盘撒白芝麻",
+      "趁热蘸凉水食用"
+    ],
+    "nutrition": {
+      "calories": "350kcal",
+      "protein": "2g",
+      "carbs": "75g",
+      "fat": "5g"
+    },
+    "equipment": [
+      "拌碗",
+      "油炸锅"
+    ],
+    "difficulty": "简单",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🧂 盐要最后放，早放会让蔬菜出水、肉质变老",
+      "substitute": "🔄 缺某样食材？试试同类替换：青菜换菠菜、猪肉换鸡肉",
+      "storage": "📦 密封冷藏保存1-2天，微波炉加热前洒少许水防干"
+    },
+    "_id": "34bed6f8a21dca675841f8d9"
+  },
+  {
+    "name": "鱼香肉丝",
+    "image": "/api/images/recipes/recipe_35.jpeg",
+    "time": "20分钟",
+    "tags": [
+      "酸甜",
+      "微辣",
+      "下饭",
+      "家常",
+      "蔬菜"
+    ],
+    "servings": 2,
+    "rating": 4.7,
+    "ingredients": [
+      {
+        "name": "猪里脊",
+        "amount": "200g"
+      },
+      {
+        "name": "木耳",
+        "amount": "50g"
+      },
+      {
+        "name": "胡萝卜",
+        "amount": "1根"
+      },
+      {
+        "name": "青椒",
+        "amount": "1个"
+      },
+      {
+        "name": "泡椒",
+        "amount": "2个"
+      },
+      {
+        "name": "蒜",
+        "amount": "3瓣"
+      },
+      {
+        "name": "姜",
+        "amount": "3片"
+      },
+      {
+        "name": "生抽",
+        "amount": "2勺"
+      },
+      {
+        "name": "醋",
+        "amount": "1勺"
+      },
+      {
+        "name": "糖",
+        "amount": "1勺"
+      },
+      {
+        "name": "淀粉",
+        "amount": "1勺"
+      },
+      {
+        "name": "豆瓣酱",
+        "amount": "1/2勺"
+      }
+    ],
+    "steps": [
+      "猪肉切丝，加料酒、淀粉腌制",
+      "木耳泡发切丝，胡萝卜青椒切丝",
+      "调鱼香汁：生抽+醋+糖+淀粉+水",
+      "热锅热油，下肉丝滑炒变色盛出",
+      "锅中放豆瓣酱炒出红油",
+      "加泡椒、姜蒜末炒香",
+      "放入木耳、胡萝卜、青椒翻炒",
+      "倒回肉丝，淋入鱼香汁",
+      "大火翻炒均匀出锅"
+    ],
+    "nutrition": {
+      "calories": "240kcal",
+      "protein": "18g",
+      "carbs": "16g",
+      "fat": "10g"
+    },
+    "equipment": [
+      "炒锅"
+    ],
+    "difficulty": "困难",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🌶️ 辣椒和花椒小火慢炒出香味，火大容易糊发苦",
+      "substitute": "🔄 缺某样食材？试试同类替换：青菜换菠菜、猪肉换鸡肉",
+      "storage": "📦 密封冷藏保存1-2天，微波炉加热前洒少许水防干"
+    },
+    "_id": "acd536d9c9e53e7cca0430cf"
+  },
+  {
+    "name": "酸菜鱼",
+    "image": "/api/images/recipes/recipe_36.jpeg",
+    "time": "30分钟",
+    "tags": [
+      "微辣",
+      "浓郁",
+      "下饭",
+      "水产"
+    ],
+    "servings": 3,
+    "rating": 4.8,
+    "ingredients": [
+      {
+        "name": "草鱼",
+        "amount": "1条约750g"
+      },
+      {
+        "name": "酸菜",
+        "amount": "200g"
+      },
+      {
+        "name": "干辣椒",
+        "amount": "5个"
+      },
+      {
+        "name": "花椒",
+        "amount": "1茶匙"
+      },
+      {
+        "name": "姜",
+        "amount": "1块"
+      },
+      {
+        "name": "蒜",
+        "amount": "5瓣"
+      },
+      {
+        "name": "料酒",
+        "amount": "1勺"
+      },
+      {
+        "name": "盐",
+        "amount": "1茶匙"
+      },
+      {
+        "name": "淀粉",
+        "amount": "2勺"
+      },
+      {
+        "name": "蛋清",
+        "amount": "1个"
+      }
+    ],
+    "steps": [
+      "鱼片用料酒、盐、蛋清、淀粉腌制20分钟",
+      "酸菜切段",
+      "热锅热油，下姜蒜干辣椒花椒爆香",
+      "加酸菜翻炒出香味",
+      "加水烧开，放入鱼头鱼骨煮5分钟",
+      "捞出铺在碗底",
+      "转小火下鱼片滑熟",
+      "连汤带鱼片倒入碗中",
+      "撒上花椒干辣椒，浇热油"
+    ],
+    "nutrition": {
+      "calories": "320kcal",
+      "protein": "32g",
+      "carbs": "6g",
+      "fat": "18g"
+    },
+    "equipment": [
+      "汤锅",
+      "炒锅"
+    ],
+    "difficulty": "困难",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🧂 肉类腌制时加少许油锁住水分，炒出来更嫩滑",
+      "substitute": "🔄 不吃辣可以去掉辣椒，加少量甜椒增色",
+      "storage": "📦 可冷藏保存2-3天，吃前加热即可。汤类建议当天喝完"
+    },
+    "_id": "98b02eff15e8832aae29921a"
+  },
+  {
+    "name": "香辣蟹",
+    "image": "/api/images/recipes/recipe_37.jpeg",
+    "time": "25分钟",
+    "tags": [
+      "辣味",
+      "浓郁",
+      "水产"
+    ],
+    "servings": 2,
+    "rating": 4.7,
+    "ingredients": [
+      {
+        "name": "螃蟹",
+        "amount": "2只"
+      },
+      {
+        "name": "干辣椒",
+        "amount": "8个"
+      },
+      {
+        "name": "花椒",
+        "amount": "1茶匙"
+      },
+      {
+        "name": "姜",
+        "amount": "1块"
+      },
+      {
+        "name": "蒜",
+        "amount": "5瓣"
+      },
+      {
+        "name": "葱",
+        "amount": "3根"
+      },
+      {
+        "name": "料酒",
+        "amount": "1勺"
+      },
+      {
+        "name": "生抽",
+        "amount": "1勺"
+      },
+      {
+        "name": "糖",
+        "amount": "1/2茶匙"
+      }
+    ],
+    "steps": [
+      "螃蟹洗净，去壳去腮切块",
+      "蟹块裹少许淀粉",
+      "热锅多油，将蟹块炸至红色捞出",
+      "锅中留底油，下干辣椒花椒姜蒜爆香",
+      "倒入蟹块翻炒",
+      "加料酒、生抽、糖",
+      "加少许水焖煮2分钟",
+      "大火收汁，撒葱段出锅"
+    ],
+    "nutrition": {
+      "calories": "280kcal",
+      "protein": "25g",
+      "carbs": "10g",
+      "fat": "15g"
+    },
+    "equipment": [
+      "汤锅",
+      "油炸锅",
+      "炒锅"
+    ],
+    "difficulty": "中等",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🧂 肉类腌制时加少许油锁住水分，炒出来更嫩滑",
+      "substitute": "🔄 不吃辣可以去掉辣椒，加少量甜椒增色",
+      "storage": "📦 可冷藏保存2-3天，吃前加热即可。汤类建议当天喝完"
+    },
+    "_id": "f419b382c07aafb5877b5b30"
+  },
+  {
+    "name": "红枣银耳羹",
+    "image": "/api/images/recipes/recipe_38.jpeg",
+    "time": "60分钟",
+    "tags": [
+      "甜",
+      "养生",
+      "清淡"
+    ],
+    "servings": 2,
+    "rating": 4.5,
+    "ingredients": [
+      {
+        "name": "银耳",
+        "amount": "1朵"
+      },
+      {
+        "name": "红枣",
+        "amount": "10颗"
+      },
+      {
+        "name": "枸杞",
+        "amount": "1小把"
+      },
+      {
+        "name": "冰糖",
+        "amount": "30g"
+      }
+    ],
+    "steps": [
+      "银耳提前泡发2小时，撕成小朵",
+      "红枣去核切开",
+      "银耳放入锅中加足量水",
+      "大火烧开转小火炖40分钟至出胶",
+      "加红枣和冰糖再炖15分钟",
+      "最后加枸杞煮2分钟即可"
+    ],
+    "nutrition": {
+      "calories": "180kcal",
+      "protein": "2g",
+      "carbs": "40g",
+      "fat": "0g"
+    },
+    "equipment": [
+      "炖锅",
+      "汤锅"
+    ],
+    "difficulty": "中等",
+    "tips": {
+      "beginner": "🕐 炖煮中途尽量少开锅盖，保持温度和蒸汽循环",
+      "seasoning": "🧂 清淡菜调味宁少勿多，出锅前尝味再决定是否加盐",
+      "substitute": "🔄 缺某样食材？试试同类替换：青菜换菠菜、猪肉换鸡肉",
+      "storage": "📦 可冷藏保存2-3天，吃前加热即可。汤类建议当天喝完"
+    },
+    "_id": "2ce79ccd21c033ff88149a8a"
+  },
+  {
+    "name": "香煎豆腐",
+    "image": "/api/images/recipes/recipe_39.jpeg",
+    "time": "15分钟",
+    "tags": [
+      "家常",
+      "快手",
+      "蛋奶",
+      "豆制品"
+    ],
+    "servings": 2,
+    "rating": 4.3,
+    "ingredients": [
+      {
+        "name": "老豆腐",
+        "amount": "1块"
+      },
+      {
+        "name": "鸡蛋",
+        "amount": "1个"
+      },
+      {
+        "name": "淀粉",
+        "amount": "适量"
+      },
+      {
+        "name": "葱",
+        "amount": "1根"
+      },
+      {
+        "name": "生抽",
+        "amount": "2勺"
+      },
+      {
+        "name": "蚝油",
+        "amount": "1勺"
+      },
+      {
+        "name": "糖",
+        "amount": "1/2茶匙"
+      }
+    ],
+    "steps": [
+      "豆腐切1cm厚片，用盐水泡10分钟",
+      "裹上淀粉，再裹蛋液",
+      "平底锅热油，中小火煎豆腐",
+      "煎至两面金黄",
+      "生抽+蚝油+糖+少量水调汁",
+      "料汁浇在豆腐上煮1分钟",
+      "撒葱花出锅"
+    ],
+    "nutrition": {
+      "calories": "200kcal",
+      "protein": "14g",
+      "carbs": "15g",
+      "fat": "10g"
+    },
+    "equipment": [
+      "汤锅",
+      "平底锅"
+    ],
+    "difficulty": "简单",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🧂 肉类腌制时加少许油锁住水分，炒出来更嫩滑",
+      "substitute": "🔄 缺某样食材？试试同类替换：青菜换菠菜、猪肉换鸡肉",
+      "storage": "📦 可冷藏保存2-3天，吃前加热即可。汤类建议当天喝完"
+    },
+    "_id": "b4398c35fbd62138c76bd303"
+  },
+  {
+    "name": "南瓜小米粥",
+    "image": "/api/images/recipes/recipe_40.jpeg",
+    "time": "40分钟",
+    "tags": [
+      "清淡",
+      "养生",
+      "蔬菜"
+    ],
+    "servings": 2,
+    "rating": 4.2,
+    "ingredients": [
+      {
+        "name": "南瓜",
+        "amount": "200g"
+      },
+      {
+        "name": "小米",
+        "amount": "100g"
+      },
+      {
+        "name": "冰糖",
+        "amount": "15g"
+      }
+    ],
+    "steps": [
+      "小米淘洗干净，浸泡20分钟",
+      "南瓜去皮切小块",
+      "锅中加水烧开",
+      "放入小米，大火煮开后转小火",
+      "煮15分钟后加入南瓜",
+      "继续煮20分钟至粥浓稠",
+      "加冰糖搅化即可"
+    ],
+    "nutrition": {
+      "calories": "200kcal",
+      "protein": "4g",
+      "carbs": "42g",
+      "fat": "2g"
+    },
+    "equipment": [
+      "汤锅"
+    ],
+    "difficulty": "中等",
+    "tips": {
+      "beginner": "🕐 炖煮中途尽量少开锅盖，保持温度和蒸汽循环",
+      "seasoning": "🧂 清淡菜调味宁少勿多，出锅前尝味再决定是否加盐",
+      "substitute": "🔄 缺某样食材？试试同类替换：青菜换菠菜、猪肉换鸡肉",
+      "storage": "📦 可冷藏保存2-3天，吃前加热即可。汤类建议当天喝完"
+    },
+    "_id": "a2e645f5f4e6560abcb40134"
+  },
+  {
+    "name": "孜然羊肉",
+    "image": "/api/images/recipes/recipe_41.jpeg",
+    "time": "20分钟",
+    "tags": [
+      "微辣",
+      "下饭",
+      "快手",
+      "肉类",
+      "蔬菜"
+    ],
+    "servings": 2,
+    "rating": 4.6,
+    "ingredients": [
+      {
+        "name": "羊肉",
+        "amount": "300g"
+      },
+      {
+        "name": "洋葱",
+        "amount": "半个"
+      },
+      {
+        "name": "孜然粉",
+        "amount": "2茶匙"
+      },
+      {
+        "name": "辣椒粉",
+        "amount": "1茶匙"
+      },
+      {
+        "name": "生抽",
+        "amount": "1勺"
+      },
+      {
+        "name": "料酒",
+        "amount": "1勺"
+      },
+      {
+        "name": "姜",
+        "amount": "3片"
+      },
+      {
+        "name": "香菜",
+        "amount": "适量"
+      }
+    ],
+    "steps": [
+      "羊肉切薄片，加料酒、生抽腌制15分钟",
+      "洋葱切丝",
+      "热锅多油，下羊肉大火爆炒至变色盛出",
+      "锅中底油炒洋葱至透明",
+      "倒回羊肉",
+      "加孜然粉和辣椒粉",
+      "大火翻炒均匀",
+      "撒香菜出锅"
+    ],
+    "nutrition": {
+      "calories": "320kcal",
+      "protein": "25g",
+      "carbs": "8g",
+      "fat": "20g"
+    },
+    "equipment": [
+      "炒锅"
+    ],
+    "difficulty": "中等",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🧂 肉类腌制时加少许油锁住水分，炒出来更嫩滑",
+      "substitute": "🔄 不吃辣可以去掉辣椒，加少量甜椒增色",
+      "storage": "📦 密封冷藏保存1-2天，微波炉加热前洒少许水防干"
+    },
+    "_id": "1676f298e23f2de8001b6b1e"
+  },
+  {
+    "name": "电饭煲焖饭",
+    "image": "/api/images/recipes/recipe_42.jpeg",
+    "time": "35分钟",
+    "tags": [
+      "快手",
+      "家常",
+      "懒人",
+      "蔬菜"
+    ],
+    "servings": 1,
+    "rating": 4.5,
+    "ingredients": [
+      {
+        "name": "大米",
+        "amount": "1杯"
+      },
+      {
+        "name": "腊肠",
+        "amount": "1根"
+      },
+      {
+        "name": "香菇",
+        "amount": "3朵"
+      },
+      {
+        "name": "胡萝卜",
+        "amount": "1/2根"
+      },
+      {
+        "name": "生抽",
+        "amount": "2勺"
+      },
+      {
+        "name": "蚝油",
+        "amount": "1勺"
+      },
+      {
+        "name": "油",
+        "amount": "1勺"
+      }
+    ],
+    "steps": [
+      "大米淘洗，加正常煮饭水量",
+      "腊肠切片，香菇和胡萝卜切丁",
+      "将食材铺在米上",
+      "加生抽、蚝油和少许油",
+      "开启电饭煲煮饭模式",
+      "煮好后再焖5分钟",
+      "拌匀即可食用"
+    ],
+    "nutrition": {
+      "calories": "420kcal",
+      "protein": "12g",
+      "carbs": "60g",
+      "fat": "14g"
+    },
+    "equipment": [
+      "汤锅",
+      "拌碗",
+      "砂锅",
+      "炒锅"
+    ],
+    "difficulty": "中等",
+    "tips": {
+      "beginner": "🕐 炖煮中途尽量少开锅盖，保持温度和蒸汽循环",
+      "seasoning": "🧂 盐要最后放，早放会让蔬菜出水、肉质变老",
+      "substitute": "🔄 缺某样食材？试试同类替换：青菜换菠菜、猪肉换鸡肉",
+      "storage": "📦 可冷藏保存2-3天，吃前加热即可。汤类建议当天喝完"
+    },
+    "_id": "92fd3ea9128d42551ded3459"
+  },
+  {
+    "name": "小炒肉",
+    "image": "/api/images/recipes/recipe_43.jpeg",
+    "time": "15分钟",
+    "tags": [
+      "微辣",
+      "下饭",
+      "快手",
+      "肉类",
+      "蔬菜"
+    ],
+    "servings": 2,
+    "rating": 4.6,
+    "ingredients": [
+      {
+        "name": "五花肉",
+        "amount": "200g"
+      },
+      {
+        "name": "青椒",
+        "amount": "3个"
+      },
+      {
+        "name": "蒜",
+        "amount": "3瓣"
+      },
+      {
+        "name": "豆豉",
+        "amount": "1/2茶匙"
+      },
+      {
+        "name": "生抽",
+        "amount": "1勺"
+      },
+      {
+        "name": "老抽",
+        "amount": "1/2勺"
+      },
+      {
+        "name": "盐",
+        "amount": "1/4茶匙"
+      }
+    ],
+    "steps": [
+      "五花肉切薄片，青椒切滚刀块",
+      "热锅少油，下五花肉煸至出油卷曲",
+      "放入蒜瓣和豆豉炒香",
+      "下青椒大火翻炒",
+      "加生抽、老抽、盐",
+      "翻炒至青椒断生出锅"
+    ],
+    "nutrition": {
+      "calories": "320kcal",
+      "protein": "14g",
+      "carbs": "6g",
+      "fat": "26g"
+    },
+    "equipment": [
+      "炒锅"
+    ],
+    "difficulty": "简单",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🧂 肉类腌制时加少许油锁住水分，炒出来更嫩滑",
+      "substitute": "🔄 猪肉可用鸡胸肉替换，更低脂健康，口感略不同",
+      "storage": "📦 密封冷藏保存1-2天，微波炉加热前洒少许水防干"
+    },
+    "_id": "dc2eb8dbdaf536429947a479"
+  },
+  {
+    "name": "荷塘小炒",
+    "image": "/api/images/recipes/recipe_44.jpeg",
+    "time": "15分钟",
+    "tags": [
+      "清淡",
+      "快手",
+      "养生",
+      "蔬菜"
+    ],
+    "servings": 2,
+    "rating": 4.3,
+    "ingredients": [
+      {
+        "name": "莲藕",
+        "amount": "1节"
+      },
+      {
+        "name": "荷兰豆",
+        "amount": "100g"
+      },
+      {
+        "name": "木耳",
+        "amount": "50g"
+      },
+      {
+        "name": "胡萝卜",
+        "amount": "1/2根"
+      },
+      {
+        "name": "蒜",
+        "amount": "2瓣"
+      },
+      {
+        "name": "盐",
+        "amount": "1/2茶匙"
+      },
+      {
+        "name": "油",
+        "amount": "1勺"
+      }
+    ],
+    "steps": [
+      "莲藕去皮切薄片泡水防氧化",
+      "木耳泡发，胡萝卜切片，荷兰豆去筋",
+      "所有食材分别焯水30秒捞出",
+      "热锅热油，蒜末爆香",
+      "放入所有食材大火翻炒",
+      "加盐调味",
+      "翻炒均匀出锅"
+    ],
+    "nutrition": {
+      "calories": "120kcal",
+      "protein": "4g",
+      "carbs": "20g",
+      "fat": "3g"
+    },
+    "equipment": [
+      "汤锅",
+      "炒锅"
+    ],
+    "difficulty": "简单",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🧂 清淡菜调味宁少勿多，出锅前尝味再决定是否加盐",
+      "substitute": "🔄 缺某样食材？试试同类替换：青菜换菠菜、猪肉换鸡肉",
+      "storage": "📦 密封冷藏保存1-2天，微波炉加热前洒少许水防干"
+    },
+    "_id": "dabfe616a628959cd8965d48"
+  },
+  {
+    "name": "酸辣白菜",
+    "image": "/api/images/recipes/recipe_45.jpeg",
+    "time": "10分钟",
+    "tags": [
+      "酸甜",
+      "快手",
+      "下饭",
+      "蔬菜"
+    ],
+    "servings": 2,
+    "rating": 4.2,
+    "ingredients": [
+      {
+        "name": "大白菜",
+        "amount": "1/2颗"
+      },
+      {
+        "name": "干辣椒",
+        "amount": "4个"
+      },
+      {
+        "name": "花椒",
+        "amount": "1/2茶匙"
+      },
+      {
+        "name": "醋",
+        "amount": "2勺"
+      },
+      {
+        "name": "生抽",
+        "amount": "1勺"
+      },
+      {
+        "name": "糖",
+        "amount": "1/2茶匙"
+      },
+      {
+        "name": "盐",
+        "amount": "1/2茶匙"
+      }
+    ],
+    "steps": [
+      "白菜帮和叶分开切，帮斜切片",
+      "调碗汁：醋+生抽+糖+盐",
+      "热锅热油，下干辣椒花椒爆香",
+      "先放白菜帮大火翻炒1分钟",
+      "再放白菜叶翻炒变软",
+      "淋入碗汁",
+      "大火翻炒均匀出锅"
+    ],
+    "nutrition": {
+      "calories": "80kcal",
+      "protein": "3g",
+      "carbs": "12g",
+      "fat": "3g"
+    },
+    "equipment": [
+      "炒锅"
+    ],
+    "difficulty": "简单",
+    "tips": {
+      "beginner": "🔥 炒菜前先把所有食材切好备齐（\"备菜\"），防止手忙脚乱",
+      "seasoning": "🍋 糖醋比例记住口诀：1酒2酱3醋4糖（料酒:生抽:醋:糖）",
+      "substitute": "🔄 不吃辣可以去掉辣椒，加少量甜椒增色",
+      "storage": "📦 密封冷藏保存1-2天，微波炉加热前洒少许水防干"
+    },
+    "_id": "ef6b2c8a44b06f406d0276c4"
+  },
+  {
+    "name": "糖拌番茄",
+    "image": "/api/images/recipes/recipe_46.jpeg",
+    "time": "3分钟",
+    "tags": [
+      "凉菜",
+      "快手",
+      "甜",
+      "蔬菜"
+    ],
+    "servings": 1,
+    "rating": 4.1,
+    "ingredients": [
+      {
+        "name": "番茄",
+        "amount": "2个"
+      },
+      {
+        "name": "白糖",
+        "amount": "2勺"
+      }
+    ],
+    "steps": [
+      "番茄洗净切片",
+      "整齐摆在盘中",
+      "撒上白糖",
+      "腌制5分钟入味后即可"
+    ],
+    "nutrition": {
+      "calories": "80kcal",
+      "protein": "2g",
+      "carbs": "18g",
+      "fat": "0g"
+    },
+    "equipment": [
+      "炒锅"
+    ],
+    "difficulty": "简单",
+    "tips": {
+      "beginner": "👨‍🍳 第一次做先通读一遍步骤，心中有数再动手",
+      "seasoning": "🧂 盐要最后放，早放会让蔬菜出水、肉质变老",
+      "substitute": "🔄 缺某样食材？试试同类替换：青菜换菠菜、猪肉换鸡肉",
+      "storage": "📦 凉菜现做现吃最佳，冷藏后口感下降，不宜过夜"
+    },
+    "_id": "41a9b32a778af2c10b94167d"
+  },
+  {
+    "name": "皮蛋豆腐",
+    "image": "/api/images/recipes/recipe_47.jpeg",
+    "time": "5分钟",
+    "tags": [
+      "凉菜",
+      "快手",
+      "家常",
+      "豆制品"
+    ],
+    "servings": 1,
+    "rating": 4.3,
+    "ingredients": [
+      {
+        "name": "嫩豆腐",
+        "amount": "1盒"
+      },
+      {
+        "name": "皮蛋",
+        "amount": "2个"
+      },
+      {
+        "name": "蒜",
+        "amount": "2瓣"
+      },
+      {
+        "name": "生抽",
+        "amount": "2勺"
+      },
+      {
+        "name": "醋",
+        "amount": "1勺"
+      },
+      {
+        "name": "辣椒油",
+        "amount": "1勺"
+      },
+      {
+        "name": "香油",
+        "amount": "几滴"
+      },
+      {
+        "name": "葱",
+        "amount": "1根"
+      }
+    ],
+    "steps": [
+      "豆腐倒扣在盘中，切块",
+      "皮蛋剥壳切小块铺在豆腐上",
+      "蒜切末，加生抽、醋、辣椒油、香油调汁",
+      "将料汁均匀淋在皮蛋豆腐上",
+      "撒上葱花即可"
+    ],
+    "nutrition": {
+      "calories": "150kcal",
+      "protein": "12g",
+      "carbs": "8g",
+      "fat": "7g"
+    },
+    "equipment": [
+      "炒锅"
+    ],
+    "difficulty": "简单",
+    "tips": {
+      "beginner": "🫘 豆腐烹饪前用淡盐水浸泡10分钟，不易碎且更入味",
+      "seasoning": "🧂 盐要最后放，早放会让蔬菜出水、肉质变老",
+      "substitute": "🔄 不吃辣可以去掉辣椒，加少量甜椒增色",
+      "storage": "📦 凉菜现做现吃最佳，冷藏后口感下降，不宜过夜"
+    },
+    "_id": "14f169e89593ead484c685e9"
+  }
+]
