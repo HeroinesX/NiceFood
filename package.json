@@ -25,13 +25,14 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "REACT_APP_API_URL=/api react-scripts build",
     "seed": "node src/server/seed.js",
     "server": "node src/server/index.js",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "start:prod": "npm run seed && npm run build && REACT_APP_API_URL=/api node src/server/index.js",
-    "deploy": "npm run build && node src/server/index.js"
+    "deploy": "npm run build && node src/server/index.js",
+    "build:win": "set REACT_APP_API_URL=/api && react-scripts build"
   },
   "eslintConfig": {
     "extends": [
