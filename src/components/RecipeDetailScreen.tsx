@@ -2,6 +2,7 @@ import React, { useState, useEffect, useCallback } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
 import './RecipeDetailScreen.css';
 import BottomNav from './BottomNav';
+import Footer from './Footer';
 
 const API_BASE = process.env.REACT_APP_API_URL || 'http://localhost:3001/api';
 
@@ -326,7 +327,8 @@ const RecipeDetailScreen = () => {
         </div>
       )}
 
-      {/* 底部导航 */}      <BottomNav />
+      {/* 底部导航 */}            <Footer />
+      <BottomNav />
 </div>
   );
 };

@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import BottomNav from './BottomNav';
+import Footer from './Footer';
 const API_BASE = process.env.REACT_APP_API_URL || 'http://localhost:3001/api';
 
 const EditProfileScreen = () => {
@@ -178,7 +179,8 @@ const EditProfileScreen = () => {
             {saving ? '保存中...' : '💾 保存'}
           </button>
         </div>
-      </div>      <BottomNav />
+      </div>            <Footer />
+      <BottomNav />
 </div>
   );
 };

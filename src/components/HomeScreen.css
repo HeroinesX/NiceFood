@@ -5,7 +5,7 @@
   min-width: 320px;
   margin: 0 auto;
   padding: var(--space-md);
-  padding-bottom: 80px;
+  padding-bottom: 160px;
 }
 
 /* ── 头部 ── */
@@ -428,7 +428,7 @@ input[type="text"]::placeholder {
 @media (min-width: 768px) {
   .home-container {
     padding: var(--space-lg);
-    padding-bottom: 80px;
+    padding-bottom: 160px;
   }
 
   .input-section {

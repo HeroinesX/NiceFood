@@ -533,3 +533,6 @@
     gap: var(--space-sm);
   }
 }
+
+/* Footer + BottomNav spacing */
+.profile-container, .admin-container { padding-bottom: 160px; }

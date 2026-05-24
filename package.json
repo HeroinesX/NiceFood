@@ -25,7 +25,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "REACT_APP_API_URL=/api react-scripts build",
+    "build": "react-scripts build",
     "seed": "node src/server/seed.js",
     "server": "node src/server/index.js",
     "test": "react-scripts test",

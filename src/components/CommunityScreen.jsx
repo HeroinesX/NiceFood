@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import './CommunityScreen.css';
 import BottomNav from './BottomNav';
+import Footer from './Footer';
 
 const API_BASE = process.env.REACT_APP_API_URL || 'http://localhost:3001/api';
 
@@ -286,7 +287,8 @@ const CommunityScreen = () => {
             {loading ? '加载中...' : '加载更多'}
           </button>
         )}
-      </div>      <BottomNav />
+      </div>            <Footer />
+      <BottomNav />
 </div>
   );
 };

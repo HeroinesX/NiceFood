@@ -78,7 +78,7 @@
   flex: 1;
   overflow-y: auto;
   padding: var(--space-lg) var(--space-md);
-  padding-bottom: 80px;
+  padding-bottom: 160px;
 }
 
 .search-section {

@@ -1,46 +1,62 @@
-# Getting Started with Create React App
+# 🍳 优餐 - 智能美食菜谱
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> **Power By HeroinesX** · [GitHub](https://github.com/HeroinesX)
 
-## Available Scripts
+一站式美食菜谱平台。输入你现有的食材，AI 智能推荐能做什么菜。支持菜谱收藏、社区分享、自由发帖、菜谱投稿。
 
-In the project directory, you can run:
+## ✨ 功能
 
-### `npm start`
+- 🔍 **智能推荐** — 输入食材、人数、口味、时间，自动匹配最合适的菜谱
+- 📖 **47 道家常菜谱** — 番茄炒蛋、红烧肉、宫保鸡丁… 每道菜都有详细步骤、食材清单、营养信息
+- 🖼️ **高清菜品图** — 每道菜配有真实美食实拍图片
+- ❤️ **收藏菜谱** — 喜欢的菜一键收藏，随时查看
+- 💬 **美食社区** — 自由发帖、交作业、分享烹饪成果，支持图片上传
+- 📝 **菜谱投稿** — 创建自己的菜谱，审核后展示给所有人
+- 👤 **个人中心** — 自定义头像、昵称、简介，管理自己的帖子和收藏
+- 📱 **PWA 支持** — 手机浏览器添加到主屏幕，像原生 App 一样使用
+- 🔗 **按食材分类** — 肉类、蔬菜、水产、蛋奶、豆制品，快速筛选
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 🚀 快速开始
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+```bash
+# 安装依赖
+npm install
 
-### `npm test`
+# 导入种子数据
+npm run seed
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# 启动开发模式
+npm start              # 前端 (localhost:3000)
+npm run server         # 后端 (localhost:3001)
 
-### `npm run build`
+# 或一键启动（手机可访问）
+start-prod.bat         # Windows 双击
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+访问 http://localhost:3001
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🔐 管理员
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- 用户名: `admin`
+- 密码: `admin123`
 
-### `npm run eject`
+## 🛠️ 技术栈
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+| 前端 | 后端 | 数据库 |
+|------|------|--------|
+| React 18 | Node.js | JSON 文件 |
+| React Router | Express 5 | (零依赖) |
+| TypeScript | JWT 认证 | |
+| PWA | crypto 密码哈希 | |
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📦 部署
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+支持一键部署到 Render：
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
 
-## Learn More
+详见 [DEPLOY.md](DEPLOY.md)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Power By HeroinesX**

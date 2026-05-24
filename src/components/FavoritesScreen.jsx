@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import './RecipeListScreen.css';
 import BottomNav from './BottomNav';
+import Footer from './Footer';
 
 const API_BASE = process.env.REACT_APP_API_URL || 'http://localhost:3001/api';
 
@@ -57,7 +58,8 @@ const FavoritesScreen = () => {
         <div className="empty-state">
           <p>🔒 请先登录才能查看收藏</p>
           <button onClick={() => navigate('/auth')}>去登录</button>
-        </div>      <BottomNav />
+        </div>            <Footer />
+      <BottomNav />
 </div>
     );
   }
@@ -93,7 +95,8 @@ const FavoritesScreen = () => {
             </div>
           ))}
         </div>
-      )}      <BottomNav />
+      )}            <Footer />
+      <BottomNav />
 </div>
   );
 };

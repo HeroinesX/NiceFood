@@ -29,3 +29,6 @@
 .bottom-nav button { background:none;border:none;font-size:11px;color:var(--color-text-secondary);cursor:pointer;padding:var(--space-sm);font-weight:500;display:flex;flex-direction:column;align-items:center;gap:3px;transition:color 0.2s; }
 .bottom-nav button:hover { color:var(--color-primary); }
 .bottom-nav button span { font-size:10px; }
+
+/* Footer + BottomNav spacing */
+.profile-container, .admin-container { padding-bottom: 160px; }

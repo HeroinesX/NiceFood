@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import './ProfileScreen.css';
 import BottomNav from './BottomNav';
+import Footer from './Footer';
 
 const API_BASE = process.env.REACT_APP_API_URL || 'http://localhost:3001/api';
 
@@ -47,7 +48,8 @@ const SubmitRecipeScreen = () => {
 
   if (!token) return (
     <div className="profile-container">
-      <div className="empty-state"><p>🔒 请先登录</p><button onClick={() => navigate('/auth')}>去登录</button></div>      <BottomNav />
+      <div className="empty-state"><p>🔒 请先登录</p><button onClick={() => navigate('/auth')}>去登录</button></div>            <Footer />
+      <BottomNav />
 </div>
   );
 
@@ -105,7 +107,8 @@ const SubmitRecipeScreen = () => {
             {submitting ? '提交中...' : '提交审核'}
           </button>
         </div>
-      </div>      <BottomNav />
+      </div>            <Footer />
+      <BottomNav />
 </div>
   );
 };
